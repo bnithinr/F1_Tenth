@@ -1,0 +1,3932 @@
+{
+     "Oschersleben": {
+          "point_0": {
+               "starting_position": [
+                    -27.374246852838464,
+                    6.792610543112006
+               ],
+               "starting_orientation": -2.468227018968372,
+               "percentage_covered": 1.146657766414489,
+               "time_until_collision": 0.5213720798492432,
+               "distance_travelled": 2.9854171700797107,
+               "total_track_length": 260.35816941395524,
+               "avg_speed": 1.3859229747675965,
+               "timesteps": 251
+          },
+          "point_1": {
+               "starting_position": [
+                    -20.833934462623752,
+                    11.169420436211158
+               ],
+               "starting_orientation": -0.1283632985783514,
+               "percentage_covered": 23.203613484500895,
+               "time_until_collision": 4.334534645080566,
+               "distance_travelled": 60.4125033061362,
+               "total_track_length": 260.35816941395524,
+               "avg_speed": 1.3545689826796734,
+               "timesteps": 5023
+          },
+          "point_2": {
+               "starting_position": [
+                    -22.35154362508608,
+                    6.556820277568742
+               ],
+               "starting_orientation": 2.8552746811339986,
+               "percentage_covered": 2.8423493499996506,
+               "time_until_collision": 0.584378719329834,
+               "distance_travelled": 7.400288736008546,
+               "total_track_length": 260.35816941395524,
+               "avg_speed": 1.2819444444444448,
+               "timesteps": 672
+          },
+          "point_3": {
+               "starting_position": [
+                    12.805921099149971,
+                    10.078623254864214
+               ],
+               "starting_orientation": -0.12404266245231416,
+               "percentage_covered": 2.076149926083203,
+               "time_until_collision": 0.4079880714416504,
+               "distance_travelled": 5.405425941839413,
+               "total_track_length": 260.35816941395524,
+               "avg_speed": 1.3205180640763465,
+               "timesteps": 489
+          },
+          "point_4": {
+               "starting_position": [
+                    -40.72561709891424,
+                    5.386243917854159
+               ],
+               "starting_orientation": -1.7582062515217531,
+               "percentage_covered": 1.1162077101239045,
+               "time_until_collision": 0.21964788436889648,
+               "distance_travelled": 2.906137960936026,
+               "total_track_length": 260.35816941395524,
+               "avg_speed": 1.3530479896238654,
+               "timesteps": 257
+          },
+          "point_5": {
+               "starting_position": [
+                    23.27442774656251,
+                    2.944693824657478
+               ],
+               "starting_orientation": -1.2256584164425541,
+               "percentage_covered": 3.6092104630919155,
+               "time_until_collision": 0.8589980602264404,
+               "distance_travelled": 9.396874292003048,
+               "total_track_length": 260.35816941395524,
+               "avg_speed": 1.2828478964401298,
+               "timesteps": 824
+          },
+          "point_6": {
+               "starting_position": [
+                    -21.88374125594068,
+                    11.305368952497538
+               ],
+               "starting_orientation": -0.12886698378770442,
+               "percentage_covered": 23.609495643357192,
+               "time_until_collision": 4.545563697814941,
+               "distance_travelled": 61.4692506649123,
+               "total_track_length": 260.35816941395524,
+               "avg_speed": 1.3536260162601628,
+               "timesteps": 5125
+          },
+          "point_7": {
+               "starting_position": [
+                    -33.617696812863514,
+                    5.503960409119641
+               ],
+               "starting_orientation": 2.353711973957872,
+               "percentage_covered": 1.109416194061703,
+               "time_until_collision": 0.20850205421447754,
+               "distance_travelled": 2.8884556940410238,
+               "total_track_length": 260.35816941395524,
+               "avg_speed": 1.4106122448979594,
+               "timesteps": 245
+          },
+          "point_8": {
+               "starting_position": [
+                    -26.13705458121569,
+                    7.377494414169215
+               ],
+               "starting_orientation": -2.823995960356136,
+               "percentage_covered": 1.293715140499233,
+               "time_until_collision": 0.3183882236480713,
+               "distance_travelled": 3.368293057234982,
+               "total_track_length": 260.35816941395524,
+               "avg_speed": 1.2277108433734942,
+               "timesteps": 332
+          },
+          "point_9": {
+               "starting_position": [
+                    -46.87834937165202,
+                    3.2052458506225023
+               ],
+               "starting_orientation": 2.26719210411334,
+               "percentage_covered": 0.5121179284076632,
+               "time_until_collision": 0.11750626564025879,
+               "distance_travelled": 1.3333408636428619,
+               "total_track_length": 260.35816941395524,
+               "avg_speed": 1.3599999999999999,
+               "timesteps": 130
+          },
+          "point_10": {
+               "starting_position": [
+                    -13.341093981696144,
+                    16.88853688716514
+               ],
+               "starting_orientation": 2.954734995766173,
+               "percentage_covered": 15.18211670878467,
+               "time_until_collision": 2.872243881225586,
+               "distance_travelled": 39.527881141282,
+               "total_track_length": 260.35816941395524,
+               "avg_speed": 1.370842222899523,
+               "timesteps": 3281
+          },
+          "point_11": {
+               "starting_position": [
+                    -28.79996910876438,
+                    24.17544226417524
+               ],
+               "starting_orientation": -0.18962195318883895,
+               "percentage_covered": 10.421202254730815,
+               "time_until_collision": 2.0296308994293213,
+               "distance_travelled": 27.132451421342978,
+               "total_track_length": 260.35816941395524,
+               "avg_speed": 1.4467596899224808,
+               "timesteps": 2150
+          },
+          "point_12": {
+               "starting_position": [
+                    -13.21624722301011,
+                    3.870422723857728
+               ],
+               "starting_orientation": 2.856140097418239,
+               "percentage_covered": 6.693186232085899,
+               "time_until_collision": 1.2441823482513428,
+               "distance_travelled": 17.426257149325732,
+               "total_track_length": 260.35816941395524,
+               "avg_speed": 1.3608725289706887,
+               "timesteps": 1467
+          },
+          "point_13": {
+               "starting_position": [
+                    -40.79340872612634,
+                    6.4360590430674245
+               ],
+               "starting_orientation": -1.4545871322597763,
+               "percentage_covered": 1.278501444703549,
+               "time_until_collision": 0.2451643943786621,
+               "distance_travelled": 3.328682957361131,
+               "total_track_length": 260.35816941395524,
+               "avg_speed": 1.3324444444444445,
+               "timesteps": 300
+          },
+          "point_14": {
+               "starting_position": [
+                    -26.46231006644303,
+                    7.298431708277028
+               ],
+               "starting_orientation": -2.685009836524703,
+               "percentage_covered": 1.1848838100163315,
+               "time_until_collision": 0.2969491481781006,
+               "distance_travelled": 3.084941797440848,
+               "total_track_length": 260.35816941395524,
+               "avg_speed": 1.1868365180467093,
+               "timesteps": 314
+          },
+          "point_15": {
+               "starting_position": [
+                    -24.290861129112617,
+                    23.318709727909585
+               ],
+               "starting_orientation": -0.18622414209843086,
+               "percentage_covered": 8.482860737970237,
+               "time_until_collision": 1.5590860843658447,
+               "distance_travelled": 22.085820931314444,
+               "total_track_length": 260.35816941395524,
+               "avg_speed": 1.4407554296506138,
+               "timesteps": 1765
+          },
+          "point_16": {
+               "starting_position": [
+                    13.857225586137622,
+                    9.947831476315828
+               ],
+               "starting_orientation": -0.1233079968879234,
+               "percentage_covered": 1.7784591809173096,
+               "time_until_collision": 0.3608739376068115,
+               "distance_travelled": 4.63036376721073,
+               "total_track_length": 260.35816941395524,
+               "avg_speed": 1.2904320987654325,
+               "timesteps": 432
+          },
+          "point_17": {
+               "starting_position": [
+                    16.659136550626624,
+                    9.591527038180342
+               ],
+               "starting_orientation": -0.13093080293531814,
+               "percentage_covered": 1.5834494327827031,
+               "time_until_collision": 0.2967033386230469,
+               "distance_travelled": 4.122639956788703,
+               "total_track_length": 260.35816941395524,
+               "avg_speed": 1.316712834718375,
+               "timesteps": 361
+          },
+          "point_18": {
+               "starting_position": [
+                    -25.80057574918896,
+                    7.401728228922404
+               ],
+               "starting_orientation": -2.9867426444899032,
+               "percentage_covered": 1.4220304835359638,
+               "time_until_collision": 0.32353758811950684,
+               "distance_travelled": 3.7023725354426515,
+               "total_track_length": 260.35816941395524,
+               "avg_speed": 1.275165250236072,
+               "timesteps": 353
+          },
+          "point_19": {
+               "starting_position": [
+                    -47.84436976812027,
+                    11.740177435815069
+               ],
+               "starting_orientation": 1.5573611051901723,
+               "percentage_covered": 2.3625419949879616,
+               "time_until_collision": 0.4677445888519287,
+               "distance_travelled": 6.151071089786595,
+               "total_track_length": 260.35816941395524,
+               "avg_speed": 1.3570536828963797,
+               "timesteps": 534
+          }
+     },
+     "BrandsHatch": {
+          "point_0": {
+               "starting_position": [
+                    45.64010048887846,
+                    -65.6690519339828
+               ],
+               "starting_orientation": -1.9576838474826794,
+               "percentage_covered": 4.782591996818654,
+               "time_until_collision": 2.1330559253692627,
+               "distance_travelled": 17.017934906421328,
+               "total_track_length": 355.83079045299155,
+               "avg_speed": 1.3863636363636365,
+               "timesteps": 1408
+          },
+          "point_1": {
+               "starting_position": [
+                    26.637592631440032,
+                    -5.51134023132088
+               ],
+               "starting_orientation": -1.5330608521043017,
+               "percentage_covered": 7.034629093649945,
+               "time_until_collision": 2.065896511077881,
+               "distance_travelled": 25.031376309370714,
+               "total_track_length": 355.83079045299155,
+               "avg_speed": 1.2916821849782745,
+               "timesteps": 2148
+          },
+          "point_2": {
+               "starting_position": [
+                    39.92569076140161,
+                    -78.58308850308444
+               ],
+               "starting_orientation": -2.43188710561487,
+               "percentage_covered": 9.967013731177055,
+               "time_until_collision": 2.6032121181488037,
+               "distance_travelled": 35.46570374420552,
+               "total_track_length": 355.83079045299155,
+               "avg_speed": 1.3160143949617638,
+               "timesteps": 2964
+          },
+          "point_3": {
+               "starting_position": [
+                    -13.256193982503756,
+                    -33.70770697931192
+               ],
+               "starting_orientation": 2.757573148063392,
+               "percentage_covered": 2.4709036244053895,
+               "time_until_collision": 0.6468830108642578,
+               "distance_travelled": 8.792235898053315,
+               "total_track_length": 355.83079045299155,
+               "avg_speed": 1.3693931398416888,
+               "timesteps": 758
+          },
+          "point_4": {
+               "starting_position": [
+                    12.720808490563757,
+                    -46.80161306437723
+               ],
+               "starting_orientation": 1.578265560034991,
+               "percentage_covered": 17.568557141482223,
+               "time_until_collision": 4.527531385421753,
+               "distance_travelled": 62.514335747721695,
+               "total_track_length": 355.83079045299155,
+               "avg_speed": 1.4007430997876862,
+               "timesteps": 5024
+          },
+          "point_5": {
+               "starting_position": [
+                    24.24139172107664,
+                    2.656138764155555
+               ],
+               "starting_orientation": -0.9208886132851095,
+               "percentage_covered": 6.791488217993563,
+               "time_until_collision": 1.7656750679016113,
+               "distance_travelled": 24.166206209608283,
+               "total_track_length": 355.83079045299155,
+               "avg_speed": 1.3321557082106643,
+               "timesteps": 2038
+          },
+          "point_6": {
+               "starting_position": [
+                    9.332667582405278,
+                    -59.59924303069417
+               ],
+               "starting_orientation": 1.3183880390968383,
+               "percentage_covered": 4.682374117906211,
+               "time_until_collision": 1.2286953926086426,
+               "distance_travelled": 16.661328835711963,
+               "total_track_length": 355.83079045299155,
+               "avg_speed": 1.3239085239085242,
+               "timesteps": 1443
+          },
+          "point_7": {
+               "starting_position": [
+                    8.831712223982601,
+                    3.7266639201891527
+               ],
+               "starting_orientation": 0.35627880238589044,
+               "percentage_covered": 3.2891240691752843,
+               "time_until_collision": 0.7884197235107422,
+               "distance_travelled": 11.703716174326015,
+               "total_track_length": 355.83079045299155,
+               "avg_speed": 1.3503157894736844,
+               "timesteps": 950
+          },
+          "point_8": {
+               "starting_position": [
+                    26.340508766553445,
+                    -2.3337744161449097
+               ],
+               "starting_orientation": -1.4208819056682012,
+               "percentage_covered": 5.800899110472199,
+               "time_until_collision": 1.4691798686981201,
+               "distance_travelled": 20.64138515817378,
+               "total_track_length": 355.83079045299155,
+               "avg_speed": 1.3658841940532085,
+               "timesteps": 1704
+          },
+          "point_9": {
+               "starting_position": [
+                    19.65873224465891,
+                    -12.048973213845144
+               ],
+               "starting_orientation": 1.7126753220857618,
+               "percentage_covered": 19.080453917859018,
+               "time_until_collision": 4.998070955276489,
+               "distance_travelled": 67.89412999793653,
+               "total_track_length": 355.83079045299155,
+               "avg_speed": 1.334310475193393,
+               "timesteps": 5731
+          },
+          "point_10": {
+               "starting_position": [
+                    -12.123534332663166,
+                    -21.31689837376845
+               ],
+               "starting_orientation": -0.8151599848504423,
+               "percentage_covered": 5.595337809865898,
+               "time_until_collision": 1.3752975463867188,
+               "distance_travelled": 19.90993475736093,
+               "total_track_length": 355.83079045299155,
+               "avg_speed": 1.4793367346938777,
+               "timesteps": 1568
+          },
+          "point_11": {
+               "starting_position": [
+                    44.77488337715529,
+                    -67.78325600196952
+               ],
+               "starting_orientation": -1.963327348588014,
+               "percentage_covered": 2.752349003335236,
+               "time_until_collision": 0.7130284309387207,
+               "distance_travelled": 9.793705214592805,
+               "total_track_length": 355.83079045299155,
+               "avg_speed": 1.3475077881619941,
+               "timesteps": 856
+          },
+          "point_12": {
+               "starting_position": [
+                    44.267894925231055,
+                    -47.442183583289
+               ],
+               "starting_orientation": -0.5992006881903927,
+               "percentage_covered": 10.388582759206324,
+               "time_until_collision": 2.735196113586426,
+               "distance_travelled": 36.965776148947064,
+               "total_track_length": 355.83079045299155,
+               "avg_speed": 1.3822045152722446,
+               "timesteps": 3012
+          },
+          "point_13": {
+               "starting_position": [
+                    8.407071446848834,
+                    3.560271865717309
+               ],
+               "starting_orientation": 0.3680095932872396,
+               "percentage_covered": 2.954191795358708,
+               "time_until_collision": 0.7743456363677979,
+               "distance_travelled": 10.511924016922313,
+               "total_track_length": 355.83079045299155,
+               "avg_speed": 1.3354074074074076,
+               "timesteps": 900
+          },
+          "point_14": {
+               "starting_position": [
+                    3.6893341313357695,
+                    -40.51025614889358
+               ],
+               "starting_orientation": 2.7633005709553915,
+               "percentage_covered": 8.831092283431087,
+               "time_until_collision": 2.1869585514068604,
+               "distance_travelled": 31.423745477765973,
+               "total_track_length": 355.83079045299155,
+               "avg_speed": 1.4331462175888803,
+               "timesteps": 2494
+          },
+          "point_15": {
+               "starting_position": [
+                    1.1435992627561793,
+                    -39.50026468566122
+               ],
+               "starting_orientation": 2.7644450661497837,
+               "percentage_covered": 14.194864559447511,
+               "time_until_collision": 3.575836420059204,
+               "distance_travelled": 50.50969876561364,
+               "total_track_length": 355.83079045299155,
+               "avg_speed": 1.3782229823275514,
+               "timesteps": 4093
+          },
+          "point_16": {
+               "starting_position": [
+                    -14.889610247986967,
+                    -6.943140797696754
+               ],
+               "starting_orientation": 0.5168262266068572,
+               "percentage_covered": 10.466001298135957,
+               "time_until_collision": 2.6435391902923584,
+               "distance_travelled": 37.24125514797753,
+               "total_track_length": 355.83079045299155,
+               "avg_speed": 1.4162000230441298,
+               "timesteps": 2893
+          },
+          "point_17": {
+               "starting_position": [
+                    12.74980349267215,
+                    4.944920479398867
+               ],
+               "starting_orientation": 0.21381703633454224,
+               "percentage_covered": 2.2696503795436174,
+               "time_until_collision": 0.5574634075164795,
+               "distance_travelled": 8.076114886049377,
+               "total_track_length": 355.83079045299155,
+               "avg_speed": 1.3620050125313286,
+               "timesteps": 665
+          },
+          "point_18": {
+               "starting_position": [
+                    21.31204532692978,
+                    4.751968523750069
+               ],
+               "starting_orientation": -0.436641952030754,
+               "percentage_covered": 0.526769774341114,
+               "time_until_collision": 0.14764070510864258,
+               "distance_travelled": 1.8744090519054262,
+               "total_track_length": 355.83079045299155,
+               "avg_speed": 1.3785714285714288,
+               "timesteps": 168
+          },
+          "point_19": {
+               "starting_position": [
+                    -11.591191576260846,
+                    -14.169521082021252
+               ],
+               "starting_orientation": -2.168781618886345,
+               "percentage_covered": 7.316881791043853,
+               "time_until_collision": 1.8872692584991455,
+               "distance_travelled": 26.035718313582347,
+               "total_track_length": 355.83079045299155,
+               "avg_speed": 1.3691071980228608,
+               "timesteps": 2158
+          }
+     },
+     "Monza": {
+          "point_0": {
+               "starting_position": [
+                    11.152530777989943,
+                    104.69909802845956
+               ],
+               "starting_orientation": 1.0762977988380098,
+               "percentage_covered": 5.219148816488778,
+               "time_until_collision": 1.5555157661437988,
+               "distance_travelled": 23.26167629563044,
+               "total_track_length": 445.6986591786802,
+               "avg_speed": 1.3750755555555556,
+               "timesteps": 1875
+          },
+          "point_1": {
+               "starting_position": [
+                    25.092934910744397,
+                    40.05220933483575
+               ],
+               "starting_orientation": -1.7069167905797686,
+               "percentage_covered": 16.12670930341261,
+               "time_until_collision": 4.831637382507324,
+               "distance_travelled": 71.87652713495348,
+               "total_track_length": 445.6986591786802,
+               "avg_speed": 1.4263494860499264,
+               "timesteps": 5675
+          },
+          "point_2": {
+               "starting_position": [
+                    30.6276508965676,
+                    49.67279032179752
+               ],
+               "starting_orientation": -1.7846666575896346,
+               "percentage_covered": 0.5233253028731955,
+               "time_until_collision": 0.16854643821716309,
+               "distance_travelled": 2.3324538580485994,
+               "total_track_length": 445.6986591786802,
+               "avg_speed": 1.3392446633825945,
+               "timesteps": 203
+          },
+          "point_3": {
+               "starting_position": [
+                    20.526285978196512,
+                    -2.440269900455725
+               ],
+               "starting_orientation": -1.6711955975674992,
+               "percentage_covered": 6.486391842204766,
+               "time_until_collision": 1.8982312679290771,
+               "distance_travelled": 28.90976146978193,
+               "total_track_length": 445.6986591786802,
+               "avg_speed": 1.4584398413397974,
+               "timesteps": 2269
+          },
+          "point_4": {
+               "starting_position": [
+                    5.694092222011742,
+                    61.72793038073016
+               ],
+               "starting_orientation": 1.485041935980074,
+               "percentage_covered": 2.0188515747203137,
+               "time_until_collision": 0.6208434104919434,
+               "distance_travelled": 8.99799439933611,
+               "total_track_length": 445.6986591786802,
+               "avg_speed": 1.3175972927241966,
+               "timesteps": 788
+          },
+          "point_5": {
+               "starting_position": [
+                    7.612609254345568,
+                    86.76082744028724
+               ],
+               "starting_orientation": 1.500488808706219,
+               "percentage_covered": 9.178624129644824,
+               "time_until_collision": 2.8361730575561523,
+               "distance_travelled": 40.909004676877785,
+               "total_track_length": 445.6986591786802,
+               "avg_speed": 1.3477901943018222,
+               "timesteps": 3311
+          },
+          "point_6": {
+               "starting_position": [
+                    20.179407558043597,
+                    -5.888149143093798
+               ],
+               "starting_orientation": -1.6708728772491575,
+               "percentage_covered": 5.546721373278608,
+               "time_until_collision": 1.9900062084197998,
+               "distance_travelled": 24.721662789080032,
+               "total_track_length": 445.6986591786802,
+               "avg_speed": 1.4532511978097193,
+               "timesteps": 1948
+          },
+          "point_7": {
+               "starting_position": [
+                    19.526853166141628,
+                    -12.400892753967543
+               ],
+               "starting_orientation": -1.6704299071939643,
+               "percentage_covered": 4.052469817235414,
+               "time_until_collision": 1.1934385299682617,
+               "distance_travelled": 18.061803639038953,
+               "total_track_length": 445.6986591786802,
+               "avg_speed": 1.4366874855424479,
+               "timesteps": 1441
+          },
+          "point_8": {
+               "starting_position": [
+                    79.67596377607478,
+                    127.4273762198958
+               ],
+               "starting_orientation": 0.3179304628656714,
+               "percentage_covered": 1.643120738026607,
+               "time_until_collision": 0.4976017475128174,
+               "distance_travelled": 7.323367098071423,
+               "total_track_length": 445.6986591786802,
+               "avg_speed": 1.4183006535947713,
+               "timesteps": 612
+          },
+          "point_9": {
+               "starting_position": [
+                    57.39923024677739,
+                    119.43287496574372
+               ],
+               "starting_orientation": 0.03875748194190532,
+               "percentage_covered": 2.443648626390282,
+               "time_until_collision": 0.8220343589782715,
+               "distance_travelled": 10.891309162859724,
+               "total_track_length": 445.6986591786802,
+               "avg_speed": 1.2132167152575317,
+               "timesteps": 1029
+          },
+          "point_10": {
+               "starting_position": [
+                    2.277095227967059,
+                    22.98980535347477
+               ],
+               "starting_orientation": 1.4717112492289377,
+               "percentage_covered": 10.571286516093464,
+               "time_until_collision": 3.100414991378784,
+               "distance_travelled": 47.116082260165186,
+               "total_track_length": 445.6986591786802,
+               "avg_speed": 1.4324208266237253,
+               "timesteps": 3726
+          },
+          "point_11": {
+               "starting_position": [
+                    0.264732458612212,
+                    -25.357879694734734
+               ],
+               "starting_orientation": 1.7534741962179223,
+               "percentage_covered": 4.195314366496088,
+               "time_until_collision": 1.282893419265747,
+               "distance_travelled": 18.698459879803607,
+               "total_track_length": 445.6986591786802,
+               "avg_speed": 1.3980276134122291,
+               "timesteps": 1521
+          },
+          "point_12": {
+               "starting_position": [
+                    33.93019973525168,
+                    58.94958000407336
+               ],
+               "starting_orientation": -2.4234882254669006,
+               "percentage_covered": 2.5127057515516116,
+               "time_until_collision": 0.7658286094665527,
+               "distance_travelled": 11.199095843771111,
+               "total_track_length": 445.6986591786802,
+               "avg_speed": 1.3351239669421489,
+               "timesteps": 968
+          },
+          "point_13": {
+               "starting_position": [
+                    56.63148494589706,
+                    119.40186744825886
+               ],
+               "starting_orientation": 0.0403658275771141,
+               "percentage_covered": 2.617850294479985,
+               "time_until_collision": 0.9464550018310547,
+               "distance_travelled": 11.667723661802425,
+               "total_track_length": 445.6986591786802,
+               "avg_speed": 1.2128135388334846,
+               "timesteps": 1103
+          },
+          "point_14": {
+               "starting_position": [
+                    53.60376835093797,
+                    76.2251120551841
+               ],
+               "starting_orientation": -2.4204637346829028,
+               "percentage_covered": 8.16836181756193,
+               "time_until_collision": 2.577962875366211,
+               "distance_travelled": 36.40627909773679,
+               "total_track_length": 445.6986591786802,
+               "avg_speed": 1.4332069401355856,
+               "timesteps": 2901
+          },
+          "point_15": {
+               "starting_position": [
+                    84.40730462929594,
+                    98.37405367278288
+               ],
+               "starting_orientation": -2.6309826150182225,
+               "percentage_covered": 17.232424426585375,
+               "time_until_collision": 5.114175796508789,
+               "distance_travelled": 76.80468461327038,
+               "total_track_length": 445.6986591786802,
+               "avg_speed": 1.4345991561181437,
+               "timesteps": 6083
+          },
+          "point_16": {
+               "starting_position": [
+                    12.023618908176385,
+                    -37.12444113661375
+               ],
+               "starting_orientation": -3.091933736971913,
+               "percentage_covered": 0.30068754936146475,
+               "time_until_collision": 0.10453271865844727,
+               "distance_travelled": 1.3401603758212806,
+               "total_track_length": 445.6986591786802,
+               "avg_speed": 1.3104166666666666,
+               "timesteps": 128
+          },
+          "point_17": {
+               "starting_position": [
+                    37.40359346218867,
+                    61.99533085101504
+               ],
+               "starting_orientation": -2.4205976269464204,
+               "percentage_covered": 3.207433597328587,
+               "time_until_collision": 1.0150911808013916,
+               "distance_travelled": 14.29548853734002,
+               "total_track_length": 445.6986591786802,
+               "avg_speed": 1.3511255763493357,
+               "timesteps": 1229
+          },
+          "point_18": {
+               "starting_position": [
+                    48.39755539512317,
+                    71.65015562257304
+               ],
+               "starting_orientation": -2.421152196582439,
+               "percentage_covered": 6.521337235068134,
+               "time_until_collision": 1.9630072116851807,
+               "distance_travelled": 29.06551261721869,
+               "total_track_length": 445.6986591786802,
+               "avg_speed": 1.4045274476513867,
+               "timesteps": 2356
+          },
+          "point_19": {
+               "starting_position": [
+                    63.42405437597985,
+                    120.0608930646842
+               ],
+               "starting_orientation": 1.0079623896025878,
+               "percentage_covered": 0.5964570109920327,
+               "time_until_collision": 0.2488842010498047,
+               "distance_travelled": 2.658400900568723,
+               "total_track_length": 445.6986591786802,
+               "avg_speed": 1.1533092659446451,
+               "timesteps": 277
+          }
+     },
+     "Catalunya": {
+          "point_0": {
+               "starting_position": [
+                    -42.2092206541009,
+                    -17.724976295427673
+               ],
+               "starting_orientation": 1.9674952700950077,
+               "percentage_covered": 1.7353804741478014,
+               "time_until_collision": 0.5541014671325684,
+               "distance_travelled": 7.2244325831644565,
+               "total_track_length": 416.3025164099637,
+               "avg_speed": 1.3473460721868367,
+               "timesteps": 628
+          },
+          "point_1": {
+               "starting_position": [
+                    -36.09620108155025,
+                    -30.035412326594574
+               ],
+               "starting_orientation": 2.4246370315594405,
+               "percentage_covered": 4.764813680739577,
+               "time_until_collision": 1.5232164859771729,
+               "distance_travelled": 19.836039255165073,
+               "total_track_length": 416.3025164099637,
+               "avg_speed": 1.434952681388013,
+               "timesteps": 1585
+          },
+          "point_2": {
+               "starting_position": [
+                    -44.30117774338854,
+                    -12.765890061976249
+               ],
+               "starting_orientation": 1.9154891174558393,
+               "percentage_covered": 1.005493186829745,
+               "time_until_collision": 0.30631041526794434,
+               "distance_travelled": 4.185893439102966,
+               "total_track_length": 416.3025164099637,
+               "avg_speed": 1.3412612612612616,
+               "timesteps": 370
+          },
+          "point_3": {
+               "starting_position": [
+                    -54.51331182566171,
+                    -54.7310883405754
+               ],
+               "starting_orientation": 0.4421919012833846,
+               "percentage_covered": 13.890886038242481,
+               "time_until_collision": 4.413320541381836,
+               "distance_travelled": 57.82810812884376,
+               "total_track_length": 416.3025164099637,
+               "avg_speed": 1.3557859809207797,
+               "timesteps": 4822
+          },
+          "point_4": {
+               "starting_position": [
+                    -5.439220972242582,
+                    15.097626684228446
+               ],
+               "starting_orientation": 0.44056389771721155,
+               "percentage_covered": 6.496765932176535,
+               "time_until_collision": 1.9575231075286865,
+               "distance_travelled": 27.04620006091615,
+               "total_track_length": 416.3025164099637,
+               "avg_speed": 1.2891528779521992,
+               "timesteps": 2357
+          },
+          "point_5": {
+               "starting_position": [
+                    -35.974703276043456,
+                    0.0412325351339596
+               ],
+               "starting_orientation": 0.4504927155735909,
+               "percentage_covered": 13.899636867141194,
+               "time_until_collision": 4.115552186965942,
+               "distance_travelled": 57.86453804975583,
+               "total_track_length": 416.3025164099637,
+               "avg_speed": 1.3861058534875572,
+               "timesteps": 4755
+          },
+          "point_6": {
+               "starting_position": [
+                    -22.56089452817004,
+                    -35.03076469557981
+               ],
+               "starting_orientation": -2.140723257965087,
+               "percentage_covered": 7.359265939249084,
+               "time_until_collision": 2.3546557426452637,
+               "distance_travelled": 30.636809294395285,
+               "total_track_length": 416.3025164099637,
+               "avg_speed": 1.4503232906864767,
+               "timesteps": 2423
+          },
+          "point_7": {
+               "starting_position": [
+                    -74.04256141377505,
+                    -55.24693128814243
+               ],
+               "starting_orientation": 1.562836327606214,
+               "percentage_covered": 1.8367560032687362,
+               "time_until_collision": 0.6545941829681396,
+               "distance_travelled": 7.646461461918824,
+               "total_track_length": 416.3025164099637,
+               "avg_speed": 1.3463812436289502,
+               "timesteps": 654
+          },
+          "point_8": {
+               "starting_position": [
+                    -38.645577537863794,
+                    -26.435750982520425
+               ],
+               "starting_orientation": 1.959520173376872,
+               "percentage_covered": 3.576897873527525,
+               "time_until_collision": 1.2373244762420654,
+               "distance_travelled": 14.890715856909567,
+               "total_track_length": 416.3025164099637,
+               "avg_speed": 1.4562047857540346,
+               "timesteps": 1198
+          },
+          "point_9": {
+               "starting_position": [
+                    -4.065546140520257,
+                    33.300982377796004
+               ],
+               "starting_orientation": -0.6366880142869953,
+               "percentage_covered": 0.7324162361899664,
+               "time_until_collision": 0.23326921463012695,
+               "distance_travelled": 3.0490672218539734,
+               "total_track_length": 416.3025164099637,
+               "avg_speed": 1.2444444444444447,
+               "timesteps": 297
+          },
+          "point_10": {
+               "starting_position": [
+                    -21.02389638497478,
+                    28.609366500980155
+               ],
+               "starting_orientation": 0.6758522907056312,
+               "percentage_covered": 2.9967273025520926,
+               "time_until_collision": 0.9981381893157959,
+               "distance_travelled": 12.475451170468789,
+               "total_track_length": 416.3025164099637,
+               "avg_speed": 1.3365611421477344,
+               "timesteps": 1074
+          },
+          "point_11": {
+               "starting_position": [
+                    1.700465843424369,
+                    2.635220008371084
+               ],
+               "starting_orientation": -2.1440010557820286,
+               "percentage_covered": 30.094682853534326,
+               "time_until_collision": 8.643723249435425,
+               "distance_travelled": 125.28492202486126,
+               "total_track_length": 416.3025164099637,
+               "avg_speed": 1.4055722188895556,
+               "timesteps": 10001
+          },
+          "point_12": {
+               "starting_position": [
+                    -35.83564883745951,
+                    -42.42245793068808
+               ],
+               "starting_orientation": 0.9856167340256242,
+               "percentage_covered": 8.855216767836449,
+               "time_until_collision": 2.4440829753875732,
+               "distance_travelled": 36.86449023806019,
+               "total_track_length": 416.3025164099637,
+               "avg_speed": 1.3625857002938297,
+               "timesteps": 3063
+          },
+          "point_13": {
+               "starting_position": [
+                    -56.18720395370598,
+                    -63.53978916707307
+               ],
+               "starting_orientation": -2.5266414264529984,
+               "percentage_covered": 1.6236179777232411,
+               "time_until_collision": 0.45404553413391113,
+               "distance_travelled": 6.759162498146416,
+               "total_track_length": 416.3025164099637,
+               "avg_speed": 1.3992779783393503,
+               "timesteps": 554
+          },
+          "point_14": {
+               "starting_position": [
+                    -40.168492892674415,
+                    -22.69351232931654
+               ],
+               "starting_orientation": 1.9566311215411176,
+               "percentage_covered": 2.71309568230855,
+               "time_until_collision": 0.7605373859405518,
+               "distance_travelled": 11.294685598060568,
+               "total_track_length": 416.3025164099637,
+               "avg_speed": 1.4282217422606192,
+               "timesteps": 926
+          },
+          "point_15": {
+               "starting_position": [
+                    -8.25771073385029,
+                    13.737277025648217
+               ],
+               "starting_orientation": 0.45381573388265956,
+               "percentage_covered": 7.944868315708832,
+               "time_until_collision": 2.207974910736084,
+               "distance_travelled": 33.074686723753764,
+               "total_track_length": 416.3025164099637,
+               "avg_speed": 1.2856353591160223,
+               "timesteps": 2896
+          },
+          "point_16": {
+               "starting_position": [
+                    -31.642893782847334,
+                    -35.088990111291736
+               ],
+               "starting_orientation": 1.594957810006423,
+               "percentage_covered": 6.300669780016321,
+               "time_until_collision": 1.7350504398345947,
+               "distance_travelled": 26.22984684489007,
+               "total_track_length": 416.3025164099637,
+               "avg_speed": 1.4097392397109647,
+               "timesteps": 2122
+          },
+          "point_17": {
+               "starting_position": [
+                    -59.13261654069697,
+                    -54.97856968272278
+               ],
+               "starting_orientation": -0.5363227921473449,
+               "percentage_covered": 10.707621625165615,
+               "time_until_collision": 3.6082406044006348,
+               "distance_travelled": 44.5760982732219,
+               "total_track_length": 416.3025164099637,
+               "avg_speed": 1.3195789473684212,
+               "timesteps": 3800
+          },
+          "point_18": {
+               "starting_position": [
+                    5.442205544297088,
+                    31.49820692799848
+               ],
+               "starting_orientation": -0.5888870976016218,
+               "percentage_covered": 1.5479937721991972,
+               "time_until_collision": 0.5019755363464355,
+               "distance_travelled": 6.444337027534779,
+               "total_track_length": 416.3025164099637,
+               "avg_speed": 1.329616724738676,
+               "timesteps": 574
+          },
+          "point_19": {
+               "starting_position": [
+                    -37.18580291109582,
+                    -0.5413003612973194
+               ],
+               "starting_orientation": 0.4480857389051474,
+               "percentage_covered": 14.212920638917224,
+               "time_until_collision": 4.160498380661011,
+               "distance_travelled": 59.168746275163485,
+               "total_track_length": 416.3025164099637,
+               "avg_speed": 1.3856849033319623,
+               "timesteps": 4862
+          }
+     },
+     "SaoPaulo": {
+          "point_0": {
+               "starting_position": [
+                    7.1182930211603885,
+                    -24.11492181503177
+               ],
+               "starting_orientation": -0.9411667914166653,
+               "percentage_covered": 3.8099712936112264,
+               "time_until_collision": 0.959599494934082,
+               "distance_travelled": 13.11649635867374,
+               "total_track_length": 344.2675901697269,
+               "avg_speed": 1.2303541315345703,
+               "timesteps": 1186
+          },
+          "point_1": {
+               "starting_position": [
+                    44.05692494980576,
+                    36.50554672878095
+               ],
+               "starting_orientation": 2.9655364806069295,
+               "percentage_covered": 11.795157155830923,
+               "time_until_collision": 2.6670713424682617,
+               "distance_travelled": 40.60690329711122,
+               "total_track_length": 344.2675901697269,
+               "avg_speed": 1.4326741709765747,
+               "timesteps": 3287
+          },
+          "point_2": {
+               "starting_position": [
+                    4.864600794628536,
+                    44.95273027614291
+               ],
+               "starting_orientation": 0.10017973823637842,
+               "percentage_covered": 0.586756978753944,
+               "time_until_collision": 0.1631934642791748,
+               "distance_travelled": 2.020014110908899,
+               "total_track_length": 344.2675901697269,
+               "avg_speed": 1.1756978653530377,
+               "timesteps": 203
+          },
+          "point_3": {
+               "starting_position": [
+                    10.254199692231335,
+                    9.71680341965401
+               ],
+               "starting_orientation": 3.1269290246279176,
+               "percentage_covered": 1.654819689335688,
+               "time_until_collision": 0.37692713737487793,
+               "distance_travelled": 5.697007866130133,
+               "total_track_length": 344.2675901697269,
+               "avg_speed": 1.3553292600135778,
+               "timesteps": 491
+          },
+          "point_4": {
+               "starting_position": [
+                    -1.9509697649689035,
+                    37.49582581443981
+               ],
+               "starting_orientation": -1.7844193814837193,
+               "percentage_covered": 21.39399553964037,
+               "time_until_collision": 5.197047472000122,
+               "distance_travelled": 73.65259288533875,
+               "total_track_length": 344.2675901697269,
+               "avg_speed": 1.3971834146888853,
+               "timesteps": 5941
+          },
+          "point_5": {
+               "starting_position": [
+                    42.87815514082252,
+                    36.711369011154
+               ],
+               "starting_orientation": 2.984160800317811,
+               "percentage_covered": 11.943636563178309,
+               "time_until_collision": 2.90185284614563,
+               "distance_travelled": 41.11806977468435,
+               "total_track_length": 344.2675901697269,
+               "avg_speed": 1.4399353926912986,
+               "timesteps": 3302
+          },
+          "point_6": {
+               "starting_position": [
+                    -0.0007474468541971,
+                    24.286819778678023
+               ],
+               "starting_orientation": 1.3302053938051333,
+               "percentage_covered": 0.5364552075508863,
+               "time_until_collision": 0.1250748634338379,
+               "distance_travelled": 1.8468414153754429,
+               "total_track_length": 344.2675901697269,
+               "avg_speed": 1.5093333333333336,
+               "timesteps": 150
+          },
+          "point_7": {
+               "starting_position": [
+                    23.1678923984287,
+                    23.52766695391871
+               ],
+               "starting_orientation": -2.1832250690105997,
+               "percentage_covered": 4.276396219477483,
+               "time_until_collision": 0.9991686344146729,
+               "distance_travelled": 14.722246210904435,
+               "total_track_length": 344.2675901697269,
+               "avg_speed": 1.4314253647586983,
+               "timesteps": 1188
+          },
+          "point_8": {
+               "starting_position": [
+                    -0.0230461845902626,
+                    23.88500628191825
+               ],
+               "starting_orientation": 1.4653777842383806,
+               "percentage_covered": 0.5344961061216513,
+               "time_until_collision": 0.11464476585388184,
+               "distance_travelled": 1.840096864096035,
+               "total_track_length": 344.2675901697269,
+               "avg_speed": 1.4818791946308725,
+               "timesteps": 149
+          },
+          "point_9": {
+               "starting_position": [
+                    44.931190114892814,
+                    18.35604838048101
+               ],
+               "starting_orientation": 1.3165985740553006,
+               "percentage_covered": 18.61807311613919,
+               "time_until_collision": 4.330712556838989,
+               "distance_travelled": 64.09599165297016,
+               "total_track_length": 344.2675901697269,
+               "avg_speed": 1.4000127591706542,
+               "timesteps": 5225
+          },
+          "point_10": {
+               "starting_position": [
+                    12.1918589780678,
+                    55.8799446476047
+               ],
+               "starting_orientation": -2.752623903383711,
+               "percentage_covered": 29.865627374560518,
+               "time_until_collision": 6.965007066726685,
+               "distance_travelled": 102.81767565146976,
+               "total_track_length": 344.2675901697269,
+               "avg_speed": 1.3892982456140353,
+               "timesteps": 8360
+          },
+          "point_11": {
+               "starting_position": [
+                    47.888892324558846,
+                    34.65897443129258
+               ],
+               "starting_orientation": 2.258381870274309,
+               "percentage_covered": 13.213284026126157,
+               "time_until_collision": 2.9445271492004395,
+               "distance_travelled": 45.48905449902598,
+               "total_track_length": 344.2675901697269,
+               "avg_speed": 1.4317987832561523,
+               "timesteps": 3671
+          },
+          "point_12": {
+               "starting_position": [
+                    19.96403476134716,
+                    57.69037598804689
+               ],
+               "starting_orientation": -2.9492133277117905,
+               "percentage_covered": 35.75133491305731,
+               "time_until_collision": 8.58649230003357,
+               "distance_travelled": 123.08025915869064,
+               "total_track_length": 344.2675901697269,
+               "avg_speed": 1.3966273411984274,
+               "timesteps": 10001
+          },
+          "point_13": {
+               "starting_position": [
+                    22.70788662100337,
+                    22.87289189959373
+               ],
+               "starting_orientation": -2.1858794927741028,
+               "percentage_covered": 4.025104064267312,
+               "time_until_collision": 1.2902283668518066,
+               "distance_travelled": 13.85712876387681,
+               "total_track_length": 344.2675901697269,
+               "avg_speed": 1.4614640048396856,
+               "timesteps": 1102
+          },
+          "point_14": {
+               "starting_position": [
+                    27.217145976642104,
+                    29.484929758263835
+               ],
+               "starting_orientation": -2.1601278816222473,
+               "percentage_covered": 6.195005912596127,
+               "time_until_collision": 1.3369030952453613,
+               "distance_travelled": 21.32739756616678,
+               "total_track_length": 344.2675901697269,
+               "avg_speed": 1.4832128514056229,
+               "timesteps": 1660
+          },
+          "point_15": {
+               "starting_position": [
+                    34.40934423674993,
+                    -19.769081405141897
+               ],
+               "starting_orientation": 1.0441324173400193,
+               "percentage_covered": 30.3418965581479,
+               "time_until_collision": 6.79214072227478,
+               "distance_travelled": 104.45731609252708,
+               "total_track_length": 344.2675901697269,
+               "avg_speed": 1.4258784026861737,
+               "timesteps": 8339
+          },
+          "point_16": {
+               "starting_position": [
+                    21.782827337756096,
+                    21.56686099652873
+               ],
+               "starting_orientation": -2.1903666797077554,
+               "percentage_covered": 3.343293707429674,
+               "time_until_collision": 0.7317421436309814,
+               "distance_travelled": 11.509876678864256,
+               "total_track_length": 344.2675901697269,
+               "avg_speed": 1.4717446499818645,
+               "timesteps": 919
+          },
+          "point_17": {
+               "starting_position": [
+                    22.938118107548775,
+                    23.20011916806541
+               ],
+               "starting_orientation": -2.184586473314411,
+               "percentage_covered": 3.909516772142479,
+               "time_until_collision": 0.9963088035583496,
+               "distance_travelled": 13.459199178736203,
+               "total_track_length": 344.2675901697269,
+               "avg_speed": 1.4601052305787683,
+               "timesteps": 1077
+          },
+          "point_18": {
+               "starting_position": [
+                    30.40049018102326,
+                    -23.5847369833675
+               ],
+               "starting_orientation": 0.5431549001993469,
+               "percentage_covered": 31.585715435523053,
+               "time_until_collision": 8.216272592544556,
+               "distance_travelled": 108.73938136774267,
+               "total_track_length": 344.2675901697269,
+               "avg_speed": 1.4328142423193757,
+               "timesteps": 8669
+          },
+          "point_19": {
+               "starting_position": [
+                    41.74271643136645,
+                    5.95306749364641
+               ],
+               "starting_orientation": 1.320907838953528,
+               "percentage_covered": 22.11040428756912,
+               "time_until_collision": 5.60329532623291,
+               "distance_travelled": 76.11895601759818,
+               "total_track_length": 344.2675901697269,
+               "avg_speed": 1.4126196269261964,
+               "timesteps": 6165
+          }
+     },
+     "Sepang": {
+          "point_0": {
+               "starting_position": [
+                    -28.92936217971977,
+                    -2.418306330996613
+               ],
+               "starting_orientation": -3.057984006202069,
+               "percentage_covered": 5.32943988675835,
+               "time_until_collision": 1.7765932083129883,
+               "distance_travelled": 25.92966901403873,
+               "total_track_length": 486.5364759712214,
+               "avg_speed": 1.4232439335887612,
+               "timesteps": 2088
+          },
+          "point_1": {
+               "starting_position": [
+                    -55.055691253373794,
+                    1.7234667435988769
+               ],
+               "starting_orientation": 0.29220394539902783,
+               "percentage_covered": 2.074476173678826,
+               "time_until_collision": 0.6952533721923828,
+               "distance_travelled": 10.093083270279596,
+               "total_track_length": 486.5364759712214,
+               "avg_speed": 1.3270514330585,
+               "timesteps": 849
+          },
+          "point_2": {
+               "starting_position": [
+                    -51.74791585350288,
+                    17.457813864002993
+               ],
+               "starting_orientation": 1.452976133977086,
+               "percentage_covered": 2.7884897472855354,
+               "time_until_collision": 0.9491498470306396,
+               "distance_travelled": 13.567019749261862,
+               "total_track_length": 486.5364759712214,
+               "avg_speed": 1.2782730585926552,
+               "timesteps": 1189
+          },
+          "point_3": {
+               "starting_position": [
+                    -35.06570571903643,
+                    -2.932992703206817
+               ],
+               "starting_orientation": -3.057848299936344,
+               "percentage_covered": 4.054105851618274,
+               "time_until_collision": 1.2852065563201904,
+               "distance_travelled": 19.724703742606625,
+               "total_track_length": 486.5364759712214,
+               "avg_speed": 1.408919311346194,
+               "timesteps": 1607
+          },
+          "point_4": {
+               "starting_position": [
+                    -19.237178969291637,
+                    -23.74398088475979
+               ],
+               "starting_orientation": 2.763052289715164,
+               "percentage_covered": 5.4478135086618495,
+               "time_until_collision": 1.7360022068023682,
+               "distance_travelled": 26.505599862527514,
+               "total_track_length": 486.5364759712214,
+               "avg_speed": 1.343961785341096,
+               "timesteps": 2233
+          },
+          "point_5": {
+               "starting_position": [
+                    43.00114545268118,
+                    -6.615519491720342
+               ],
+               "starting_orientation": -2.0206132506230503,
+               "percentage_covered": 0.3674242901409711,
+               "time_until_collision": 0.12723040580749512,
+               "distance_travelled": 1.7876531931141568,
+               "total_track_length": 486.5364759712214,
+               "avg_speed": 1.3621399176954734,
+               "timesteps": 162
+          },
+          "point_6": {
+               "starting_position": [
+                    16.56662944973865,
+                    -11.707262012205014
+               ],
+               "starting_orientation": -3.0140549099656098,
+               "percentage_covered": 5.248326828850403,
+               "time_until_collision": 1.8078129291534424,
+               "distance_travelled": 25.53502440054091,
+               "total_track_length": 486.5364759712214,
+               "avg_speed": 1.3457522397281436,
+               "timesteps": 2158
+          },
+          "point_7": {
+               "starting_position": [
+                    -47.73349422438308,
+                    4.495333857557114
+               ],
+               "starting_orientation": 2.184739150096943,
+               "percentage_covered": 5.581206275983768,
+               "time_until_collision": 1.9269139766693115,
+               "distance_travelled": 27.154604331856067,
+               "total_track_length": 486.5364759712214,
+               "avg_speed": 1.2722269025554622,
+               "timesteps": 2374
+          },
+          "point_8": {
+               "starting_position": [
+                    -14.413056361045276,
+                    -27.55618110102708
+               ],
+               "starting_orientation": 2.455476795381106,
+               "percentage_covered": 6.769692877478019,
+               "time_until_collision": 2.2215359210968018,
+               "distance_travelled": 32.93702516015633,
+               "total_track_length": 486.5364759712214,
+               "avg_speed": 1.3387452107279696,
+               "timesteps": 2784
+          },
+          "point_9": {
+               "starting_position": [
+                    19.03548196579884,
+                    -5.891382367901181
+               ],
+               "starting_orientation": 0.15099836590734253,
+               "percentage_covered": 3.801894122957345,
+               "time_until_collision": 1.4310379028320312,
+               "distance_travelled": 18.497601685993644,
+               "total_track_length": 486.5364759712214,
+               "avg_speed": 1.2587118917827582,
+               "timesteps": 1651
+          },
+          "point_10": {
+               "starting_position": [
+                    -32.551622346052895,
+                    -14.743123376038277
+               ],
+               "starting_orientation": 0.17011485368208584,
+               "percentage_covered": 25.95268530697069,
+               "time_until_collision": 8.341242790222168,
+               "distance_travelled": 126.26928051243617,
+               "total_track_length": 486.5364759712214,
+               "avg_speed": 1.4295540891821639,
+               "timesteps": 10001
+          },
+          "point_11": {
+               "starting_position": [
+                    8.630384501923622,
+                    -7.6693314887691395
+               ],
+               "starting_orientation": 0.17975660724221162,
+               "percentage_covered": 23.01846506027954,
+               "time_until_collision": 7.5961644649505615,
+               "distance_travelled": 111.99322872695096,
+               "total_track_length": 486.5364759712214,
+               "avg_speed": 1.4181165919282515,
+               "timesteps": 8920
+          },
+          "point_12": {
+               "starting_position": [
+                    -9.099162761386385,
+                    42.81364426244233
+               ],
+               "starting_orientation": -0.39147863392116594,
+               "percentage_covered": 0.32627532773604323,
+               "time_until_collision": 0.23403096199035645,
+               "distance_travelled": 1.5874484815304981,
+               "total_track_length": 486.5364759712214,
+               "avg_speed": 1.349440715883669,
+               "timesteps": 149
+          },
+          "point_13": {
+               "starting_position": [
+                    -39.88733810836123,
+                    -3.337761185101489
+               ],
+               "starting_orientation": -3.0578480046817598,
+               "percentage_covered": 2.6529583414418285,
+               "time_until_collision": 0.8964037895202637,
+               "distance_travelled": 12.907610023435636,
+               "total_track_length": 486.5364759712214,
+               "avg_speed": 1.4114339268978444,
+               "timesteps": 1067
+          },
+          "point_14": {
+               "starting_position": [
+                    -7.396539508971989,
+                    41.08208395557286
+               ],
+               "starting_orientation": -1.4086088502238296,
+               "percentage_covered": 9.425214800362907,
+               "time_until_collision": 3.056324005126953,
+               "distance_travelled": 45.85710794240368,
+               "total_track_length": 486.5364759712214,
+               "avg_speed": 1.3425287356321842,
+               "timesteps": 3886
+          },
+          "point_15": {
+               "starting_position": [
+                    2.777472656904279,
+                    -18.280519368577625
+               ],
+               "starting_orientation": -0.5548415983197866,
+               "percentage_covered": 0.8533419732546833,
+               "time_until_collision": 0.3046572208404541,
+               "distance_travelled": 4.151819964656619,
+               "total_track_length": 486.5364759712214,
+               "avg_speed": 1.2723809523809526,
+               "timesteps": 385
+          },
+          "point_16": {
+               "starting_position": [
+                    -7.137135577885971,
+                    39.33610674453375
+               ],
+               "starting_orientation": -1.426111162936321,
+               "percentage_covered": 8.938792735009715,
+               "time_until_collision": 3.0313448905944824,
+               "distance_travelled": 43.49048716728783,
+               "total_track_length": 486.5364759712214,
+               "avg_speed": 1.341418516513265,
+               "timesteps": 3694
+          },
+          "point_17": {
+               "starting_position": [
+                    5.223327408482128,
+                    -13.160638499961022
+               ],
+               "starting_orientation": -3.0137813592142892,
+               "percentage_covered": 2.833204419796093,
+               "time_until_collision": 0.953538179397583,
+               "distance_travelled": 13.784572941136801,
+               "total_track_length": 486.5364759712214,
+               "avg_speed": 1.2643048845947398,
+               "timesteps": 1242
+          },
+          "point_18": {
+               "starting_position": [
+                    -15.432429358584251,
+                    -26.721576525582844
+               ],
+               "starting_orientation": 2.4546052350112495,
+               "percentage_covered": 6.350481334174951,
+               "time_until_collision": 2.0768496990203857,
+               "distance_travelled": 30.89740809050501,
+               "total_track_length": 486.5364759712214,
+               "avg_speed": 1.3251010101010103,
+               "timesteps": 2640
+          },
+          "point_19": {
+               "starting_position": [
+                    -21.91641743218652,
+                    -1.8318318967594789
+               ],
+               "starting_orientation": -3.058324712347216,
+               "percentage_covered": 7.819758371000712,
+               "time_until_collision": 2.4716758728027344,
+               "distance_travelled": 38.045976807731456,
+               "total_track_length": 486.5364759712214,
+               "avg_speed": 1.401109298531811,
+               "timesteps": 3065
+          }
+     },
+     "Silverstone": {
+          "point_0": {
+               "starting_position": [
+                    38.27833193614161,
+                    26.62061605942641
+               ],
+               "starting_orientation": 0.5411114373323552,
+               "percentage_covered": 3.325541055572761,
+               "time_until_collision": 0.973933219909668,
+               "distance_travelled": 15.215537226438439,
+               "total_track_length": 457.5356903485245,
+               "avg_speed": 1.4267852330908113,
+               "timesteps": 1237
+          },
+          "point_1": {
+               "starting_position": [
+                    58.25767377096096,
+                    1.91561240951466
+               ],
+               "starting_orientation": -2.0366235250012856,
+               "percentage_covered": 9.917894172404157,
+               "time_until_collision": 2.954249858856201,
+               "distance_travelled": 45.37790556974544,
+               "total_track_length": 457.5356903485245,
+               "avg_speed": 1.4121630324776893,
+               "timesteps": 3623
+          },
+          "point_2": {
+               "starting_position": [
+                    22.1732616569204,
+                    25.85376762935405
+               ],
+               "starting_orientation": -0.0060597656175953845,
+               "percentage_covered": 6.9216273936693105,
+               "time_until_collision": 2.0945239067077637,
+               "distance_travelled": 31.668915678977463,
+               "total_track_length": 457.5356903485245,
+               "avg_speed": 1.3794188554751936,
+               "timesteps": 2627
+          },
+          "point_3": {
+               "starting_position": [
+                    44.09476544546632,
+                    -26.224743028717494
+               ],
+               "starting_orientation": -2.0818897490549175,
+               "percentage_covered": 2.8667537530613485,
+               "time_until_collision": 0.8667705059051514,
+               "distance_travelled": 13.116421574661477,
+               "total_track_length": 457.5356903485245,
+               "avg_speed": 1.4345702505550273,
+               "timesteps": 1051
+          },
+          "point_4": {
+               "starting_position": [
+                    0.9120069672079696,
+                    1.2605279109327494
+               ],
+               "starting_orientation": 0.9445864468935437,
+               "percentage_covered": 5.826007126198942,
+               "time_until_collision": 1.6896429061889648,
+               "distance_travelled": 26.65606192460856,
+               "total_track_length": 457.5356903485245,
+               "avg_speed": 1.4522590837282783,
+               "timesteps": 2110
+          },
+          "point_5": {
+               "starting_position": [
+                    33.978758081836816,
+                    90.5079720853757
+               ],
+               "starting_orientation": 0.12428153143503036,
+               "percentage_covered": 4.071488378951589,
+               "time_until_collision": 1.1406047344207764,
+               "distance_travelled": 18.6285124620961,
+               "total_track_length": 457.5356903485245,
+               "avg_speed": 1.4512820512820515,
+               "timesteps": 1482
+          },
+          "point_6": {
+               "starting_position": [
+                    59.22523568179648,
+                    45.077186871055744
+               ],
+               "starting_orientation": 2.4351005085050845,
+               "percentage_covered": 13.52776304954564,
+               "time_until_collision": 3.94159197807312,
+               "distance_travelled": 61.894344057451256,
+               "total_track_length": 457.5356903485245,
+               "avg_speed": 1.380136806103657,
+               "timesteps": 5068
+          },
+          "point_7": {
+               "starting_position": [
+                    23.96609001854019,
+                    -35.98623142425824
+               ],
+               "starting_orientation": 2.036457069944656,
+               "percentage_covered": 7.0702520910061,
+               "time_until_collision": 2.037112236022949,
+               "distance_travelled": 32.34892671396575,
+               "total_track_length": 457.5356903485245,
+               "avg_speed": 1.3756439109777445,
+               "timesteps": 2666
+          },
+          "point_8": {
+               "starting_position": [
+                    49.822986683261206,
+                    92.30174269697436
+               ],
+               "starting_orientation": 0.09908697225877562,
+               "percentage_covered": 2.0773746041307173,
+               "time_until_collision": 0.6006472110748291,
+               "distance_travelled": 9.504730236134405,
+               "total_track_length": 457.5356903485245,
+               "avg_speed": 1.32972972972973,
+               "timesteps": 814
+          },
+          "point_9": {
+               "starting_position": [
+                    56.86019196866751,
+                    -0.8644618873898952
+               ],
+               "starting_orientation": -2.0368255463018317,
+               "percentage_covered": 5.510316695915111,
+               "time_until_collision": 1.6384735107421875,
+               "distance_travelled": 25.211665535045206,
+               "total_track_length": 457.5356903485245,
+               "avg_speed": 1.4110121991427629,
+               "timesteps": 2022
+          },
+          "point_10": {
+               "starting_position": [
+                    6.609269151808663,
+                    9.140275733976909
+               ],
+               "starting_orientation": 0.9448379989588369,
+               "percentage_covered": 3.6621660593243544,
+               "time_until_collision": 1.0308489799499512,
+               "distance_travelled": 16.75571676123904,
+               "total_track_length": 457.5356903485245,
+               "avg_speed": 1.4203921568627453,
+               "timesteps": 1360
+          },
+          "point_11": {
+               "starting_position": [
+                    18.967080185512,
+                    76.58605401275356
+               ],
+               "starting_orientation": -2.938289396177679,
+               "percentage_covered": 2.0666222839661184,
+               "time_until_collision": 0.6405704021453857,
+               "distance_travelled": 9.455534533840824,
+               "total_track_length": 457.5356903485245,
+               "avg_speed": 1.286935866983373,
+               "timesteps": 842
+          },
+          "point_12": {
+               "starting_position": [
+                    60.71075037574264,
+                    6.777453733193903
+               ],
+               "starting_orientation": -2.039823429208788,
+               "percentage_covered": 7.3709560378967875,
+               "time_until_collision": 2.1884491443634033,
+               "distance_travelled": 33.72475459327732,
+               "total_track_length": 457.5356903485245,
+               "avg_speed": 1.410060561117291,
+               "timesteps": 2697
+          },
+          "point_13": {
+               "starting_position": [
+                    34.19436265941377,
+                    -40.48446118034568
+               ],
+               "starting_orientation": -2.732254561701274,
+               "percentage_covered": 0.5604403932985821,
+               "time_until_collision": 0.1441037654876709,
+               "distance_travelled": 2.564214822470653,
+               "total_track_length": 457.5356903485245,
+               "avg_speed": 1.505610561056106,
+               "timesteps": 202
+          },
+          "point_14": {
+               "starting_position": [
+                    43.22464858022502,
+                    30.37824254393828
+               ],
+               "starting_orientation": 0.7114276328481917,
+               "percentage_covered": 2.0712249775277276,
+               "time_until_collision": 0.600813627243042,
+               "distance_travelled": 9.47659349960256,
+               "total_track_length": 457.5356903485245,
+               "avg_speed": 1.3612479474548442,
+               "timesteps": 812
+          },
+          "point_15": {
+               "starting_position": [
+                    69.31746587711163,
+                    52.44642073070608
+               ],
+               "starting_orientation": -1.2054918705585622,
+               "percentage_covered": 1.109777349193413,
+               "time_until_collision": 0.3411579132080078,
+               "distance_travelled": 5.077627455963638,
+               "total_track_length": 457.5356903485245,
+               "avg_speed": 1.3048850574712647,
+               "timesteps": 464
+          },
+          "point_16": {
+               "starting_position": [
+                    60.36815806919608,
+                    29.596202831906535
+               ],
+               "starting_orientation": 1.163767031152364,
+               "percentage_covered": 18.164616887614383,
+               "time_until_collision": 5.448793411254883,
+               "distance_travelled": 83.10960527591112,
+               "total_track_length": 457.5356903485245,
+               "avg_speed": 1.3826993684828908,
+               "timesteps": 6809
+          },
+          "point_17": {
+               "starting_position": [
+                    7.748281820213109,
+                    66.27301457862261
+               ],
+               "starting_orientation": 2.054084083111454,
+               "percentage_covered": 5.997337853684313,
+               "time_until_collision": 1.8597192764282227,
+               "distance_travelled": 27.439961151387905,
+               "total_track_length": 457.5356903485245,
+               "avg_speed": 1.3537136066547832,
+               "timesteps": 2244
+          },
+          "point_18": {
+               "starting_position": [
+                    46.72703842468691,
+                    91.99795805223404
+               ],
+               "starting_orientation": 0.09917125085181581,
+               "percentage_covered": 1.3794050020275583,
+               "time_until_collision": 0.6258862018585205,
+               "distance_travelled": 6.3112701987288675,
+               "total_track_length": 457.5356903485245,
+               "avg_speed": 1.3813234384662958,
+               "timesteps": 539
+          },
+          "point_19": {
+               "starting_position": [
+                    17.28885347347309,
+                    23.97880739840444
+               ],
+               "starting_orientation": 0.8866278793356437,
+               "percentage_covered": 0.33588019595635926,
+               "time_until_collision": 0.11833310127258301,
+               "distance_travelled": 1.5367717733129054,
+               "total_track_length": 457.5356903485245,
+               "avg_speed": 1.3881796690307329,
+               "timesteps": 141
+          }
+     },
+     "YasMarina": {
+          "point_0": {
+               "starting_position": [
+                    14.83254035150308,
+                    50.24055578073107
+               ],
+               "starting_orientation": 1.6670997353163388,
+               "percentage_covered": 3.728473710885753,
+               "time_until_collision": 1.0171864032745361,
+               "distance_travelled": 14.82709537325282,
+               "total_track_length": 397.6719838459161,
+               "avg_speed": 1.3130030959752323,
+               "timesteps": 1292
+          },
+          "point_1": {
+               "starting_position": [
+                    11.26736494597064,
+                    -14.92411365823492
+               ],
+               "starting_orientation": -2.988935795110734,
+               "percentage_covered": 3.3329610761376736,
+               "time_until_collision": 0.9366483688354492,
+               "distance_travelled": 13.254252432288881,
+               "total_track_length": 397.6719838459161,
+               "avg_speed": 1.4078431372549023,
+               "timesteps": 1088
+          },
+          "point_2": {
+               "starting_position": [
+                    26.889155675302,
+                    17.681367885924914
+               ],
+               "starting_orientation": 1.7964407256732515,
+               "percentage_covered": 2.564736604028099,
+               "time_until_collision": 0.7177040576934814,
+               "distance_travelled": 10.199238933660919,
+               "total_track_length": 397.6719838459161,
+               "avg_speed": 1.3451381006432086,
+               "timesteps": 881
+          },
+          "point_3": {
+               "starting_position": [
+                    13.730468569443234,
+                    28.6353064052758
+               ],
+               "starting_orientation": 2.131787385749029,
+               "percentage_covered": 0.47192874301151033,
+               "time_until_collision": 0.14159560203552246,
+               "distance_travelled": 1.876728394672968,
+               "total_track_length": 397.6719838459161,
+               "avg_speed": 1.3054263565891475,
+               "timesteps": 172
+          },
+          "point_4": {
+               "starting_position": [
+                    14.4688588894694,
+                    53.81150498430768
+               ],
+               "starting_orientation": 1.669683003537624,
+               "percentage_covered": 2.8111441916056052,
+               "time_until_collision": 0.816960334777832,
+               "distance_travelled": 11.17913287552725,
+               "total_track_length": 397.6719838459161,
+               "avg_speed": 1.2673151750972766,
+               "timesteps": 1028
+          },
+          "point_5": {
+               "starting_position": [
+                    -7.983710383033561,
+                    -24.697711768641856
+               ],
+               "starting_orientation": -0.8817579416399732,
+               "percentage_covered": 14.439186637130433,
+               "time_until_collision": 3.9732370376586914,
+               "distance_travelled": 57.42059995109101,
+               "total_track_length": 397.6719838459161,
+               "avg_speed": 1.4408025776215583,
+               "timesteps": 4552
+          },
+          "point_6": {
+               "starting_position": [
+                    40.54535977385893,
+                    -43.25552702726324
+               ],
+               "starting_orientation": 1.5736942748617664,
+               "percentage_covered": 5.63412675872687,
+               "time_until_collision": 1.5281925201416016,
+               "distance_travelled": 22.405343653822754,
+               "total_track_length": 397.6719838459161,
+               "avg_speed": 1.3902193455591516,
+               "timesteps": 1854
+          },
+          "point_7": {
+               "starting_position": [
+                    1.3491519889304349,
+                    48.49092819929142
+               ],
+               "starting_orientation": -1.9179790092508135,
+               "percentage_covered": 16.761528640290265,
+               "time_until_collision": 5.060685157775879,
+               "distance_travelled": 66.65590346674371,
+               "total_track_length": 397.6719838459161,
+               "avg_speed": 1.4097448374820638,
+               "timesteps": 5343
+          },
+          "point_8": {
+               "starting_position": [
+                    21.36878680557819,
+                    2.6783088885391515
+               ],
+               "starting_orientation": 0.12366381628234521,
+               "percentage_covered": 10.075328737875699,
+               "time_until_collision": 2.9443423748016357,
+               "distance_travelled": 40.06675967090799,
+               "total_track_length": 397.6719838459161,
+               "avg_speed": 1.3401263823064773,
+               "timesteps": 3376
+          },
+          "point_9": {
+               "starting_position": [
+                    2.37339073726196,
+                    -16.118641989293724
+               ],
+               "starting_orientation": -3.0088013530712368,
+               "percentage_covered": 1.0841809407314522,
+               "time_until_collision": 0.3174436092376709,
+               "distance_travelled": 4.311483855486082,
+               "total_track_length": 397.6719838459161,
+               "avg_speed": 1.2533980582524273,
+               "timesteps": 412
+          },
+          "point_10": {
+               "starting_position": [
+                    10.43884867973305,
+                    66.2407996751537
+               ],
+               "starting_orientation": 1.183325773879551,
+               "percentage_covered": 25.529984871887173,
+               "time_until_collision": 7.063435316085815,
+               "distance_travelled": 101.52559731559599,
+               "total_track_length": 397.6719838459161,
+               "avg_speed": 1.3724772096710267,
+               "timesteps": 8410
+          },
+          "point_11": {
+               "starting_position": [
+                    20.844022851011715,
+                    -40.92183561871714
+               ],
+               "starting_orientation": 3.139132368463822,
+               "percentage_covered": 0.3339351067596921,
+               "time_until_collision": 0.12937521934509277,
+               "distance_travelled": 1.3279663638092456,
+               "total_track_length": 397.6719838459161,
+               "avg_speed": 1.317585301837271,
+               "timesteps": 127
+          },
+          "point_12": {
+               "starting_position": [
+                    11.234764565746184,
+                    68.23781646908647
+               ],
+               "starting_orientation": 1.1773891214614778,
+               "percentage_covered": 24.79435753928524,
+               "time_until_collision": 7.078766822814941,
+               "distance_travelled": 98.60021350832507,
+               "total_track_length": 397.6719838459161,
+               "avg_speed": 1.4114021830394627,
+               "timesteps": 7940
+          },
+          "point_13": {
+               "starting_position": [
+                    24.556931935820515,
+                    22.19503088300332
+               ],
+               "starting_orientation": 2.8162104837151487,
+               "percentage_covered": 3.9526978193240887,
+               "time_until_collision": 1.1595773696899414,
+               "distance_travelled": 15.718771833540368,
+               "total_track_length": 397.6719838459161,
+               "avg_speed": 1.3253671894448595,
+               "timesteps": 1339
+          },
+          "point_14": {
+               "starting_position": [
+                    -0.8566486949838782,
+                    -31.236101025292218
+               ],
+               "starting_orientation": -0.6964561246578846,
+               "percentage_covered": 11.872856018292197,
+               "time_until_collision": 3.6912312507629395,
+               "distance_travelled": 47.21502206711182,
+               "total_track_length": 397.6719838459161,
+               "avg_speed": 1.4204467805519057,
+               "timesteps": 3805
+          },
+          "point_15": {
+               "starting_position": [
+                    22.01297633817962,
+                    -47.85667908908529
+               ],
+               "starting_orientation": -0.4685819177641188,
+               "percentage_covered": 4.097865480772296,
+               "time_until_collision": 1.070178747177124,
+               "distance_travelled": 16.296062952724178,
+               "total_track_length": 397.6719838459161,
+               "avg_speed": 1.3741839762611276,
+               "timesteps": 1348
+          },
+          "point_16": {
+               "starting_position": [
+                    12.441410065031324,
+                    34.79463101589907
+               ],
+               "starting_orientation": 1.2850199652898104,
+               "percentage_covered": 7.729361286773336,
+               "time_until_collision": 2.379044532775879,
+               "distance_travelled": 30.737504367729752,
+               "total_track_length": 397.6719838459161,
+               "avg_speed": 1.3207088345621525,
+               "timesteps": 2577
+          },
+          "point_17": {
+               "starting_position": [
+                    -5.32419271054077,
+                    -15.369294169146242
+               ],
+               "starting_orientation": 2.11846252711663,
+               "percentage_covered": 2.18787059052485,
+               "time_until_collision": 0.5909132957458496,
+               "distance_travelled": 8.70054838132153,
+               "total_track_length": 397.6719838459161,
+               "avg_speed": 1.4213556174558961,
+               "timesteps": 718
+          },
+          "point_18": {
+               "starting_position": [
+                    -9.938028570499878,
+                    17.074695554085295
+               ],
+               "starting_orientation": -1.9160061266995259,
+               "percentage_covered": 8.178861828949229,
+               "time_until_collision": 2.4184486865997314,
+               "distance_travelled": 32.52504209119877,
+               "total_track_length": 397.6719838459161,
+               "avg_speed": 1.3883796644127224,
+               "timesteps": 2662
+          },
+          "point_19": {
+               "starting_position": [
+                    -2.3123910467514635,
+                    38.36422191515069
+               ],
+               "starting_orientation": -1.9169722670183993,
+               "percentage_covered": 5.4329326377741065,
+               "time_until_collision": 1.4491207599639893,
+               "distance_travelled": 21.605251001648547,
+               "total_track_length": 397.6719838459161,
+               "avg_speed": 1.4681791044776118,
+               "timesteps": 1675
+          }
+     },
+     "Sochi": {
+          "point_0": {
+               "starting_position": [
+                    -140.00855978271662,
+                    -50.29163012231261
+               ],
+               "starting_orientation": 0.4837554813968713,
+               "percentage_covered": 11.214469515541705,
+               "time_until_collision": 3.656144380569458,
+               "distance_travelled": 51.968089054849116,
+               "total_track_length": 463.402116193089,
+               "avg_speed": 1.3929231250978553,
+               "timesteps": 4258
+          },
+          "point_1": {
+               "starting_position": [
+                    -98.3297461531699,
+                    -32.085367964370235
+               ],
+               "starting_orientation": -2.9289103963920144,
+               "percentage_covered": 8.534536873032565,
+               "time_until_collision": 2.7091622352600098,
+               "distance_travelled": 39.549224476912386,
+               "total_track_length": 463.402116193089,
+               "avg_speed": 1.334972677595629,
+               "timesteps": 3416
+          },
+          "point_2": {
+               "starting_position": [
+                    -48.1461994915488,
+                    -40.0627109100326
+               ],
+               "starting_orientation": -2.879992295356554,
+               "percentage_covered": 5.666260969076911,
+               "time_until_collision": 1.7718784809112549,
+               "distance_travelled": 26.257573239725435,
+               "total_track_length": 463.402116193089,
+               "avg_speed": 1.408782622284732,
+               "timesteps": 2133
+          },
+          "point_3": {
+               "starting_position": [
+                    -8.958067639616864,
+                    -14.068811195668632
+               ],
+               "starting_orientation": -2.1376444343853342,
+               "percentage_covered": 5.441615399628465,
+               "time_until_collision": 1.8083062171936035,
+               "distance_travelled": 25.216560916967325,
+               "total_track_length": 463.402116193089,
+               "avg_speed": 1.4073329984932195,
+               "timesteps": 1991
+          },
+          "point_4": {
+               "starting_position": [
+                    0.0,
+                    0.0
+               ],
+               "starting_orientation": -2.137115781479275,
+               "percentage_covered": 9.268432190495659,
+               "time_until_collision": 3.078718423843384,
+               "distance_travelled": 42.950110908678354,
+               "total_track_length": 463.402116193089,
+               "avg_speed": 1.424540836264166,
+               "timesteps": 3412
+          },
+          "point_5": {
+               "starting_position": [
+                    -60.82966665850225,
+                    -23.190927995375358
+               ],
+               "starting_orientation": -0.3672605236463392,
+               "percentage_covered": 4.997555480827825,
+               "time_until_collision": 1.5965936183929443,
+               "distance_travelled": 23.158777856079844,
+               "total_track_length": 463.402116193089,
+               "avg_speed": 1.3309572301425667,
+               "timesteps": 1964
+          },
+          "point_6": {
+               "starting_position": [
+                    -98.55937883315045,
+                    -11.681544233509475
+               ],
+               "starting_orientation": -0.061410284185103324,
+               "percentage_covered": 1.0095925078426986,
+               "time_until_collision": 0.3355977535247803,
+               "distance_travelled": 4.678473046269943,
+               "total_track_length": 463.402116193089,
+               "avg_speed": 1.3852036575228597,
+               "timesteps": 401
+          },
+          "point_7": {
+               "starting_position": [
+                    -32.727419237741096,
+                    -30.65857147632352
+               ],
+               "starting_orientation": -0.4582390511167167,
+               "percentage_covered": 5.656978931453955,
+               "time_until_collision": 1.9125370979309082,
+               "distance_travelled": 26.214560080954822,
+               "total_track_length": 463.402116193089,
+               "avg_speed": 1.2923646723646722,
+               "timesteps": 2340
+          },
+          "point_8": {
+               "starting_position": [
+                    -126.77683063528607,
+                    -48.01520586743826
+               ],
+               "starting_orientation": 0.1550430476805875,
+               "percentage_covered": 8.296364518880706,
+               "time_until_collision": 3.851630210876465,
+               "distance_travelled": 38.445528747585776,
+               "total_track_length": 463.402116193089,
+               "avg_speed": 1.365626609000103,
+               "timesteps": 3237
+          },
+          "point_9": {
+               "starting_position": [
+                    -141.90537244947967,
+                    -64.9994861639057
+               ],
+               "starting_orientation": 1.824665694133508,
+               "percentage_covered": 2.6926070389568606,
+               "time_until_collision": 1.1137702465057373,
+               "distance_travelled": 12.477597999290165,
+               "total_track_length": 463.402116193089,
+               "avg_speed": 1.365302886140184,
+               "timesteps": 1051
+          },
+          "point_10": {
+               "starting_position": [
+                    -125.99220349254358,
+                    -47.89257065633178
+               ],
+               "starting_orientation": 0.15517703843449376,
+               "percentage_covered": 8.020534191483412,
+               "time_until_collision": 3.90543794631958,
+               "distance_travelled": 37.16732517332439,
+               "total_track_length": 463.402116193089,
+               "avg_speed": 1.3715447154471545,
+               "timesteps": 3116
+          },
+          "point_11": {
+               "starting_position": [
+                    -103.7381148306223,
+                    -63.65593189753008
+               ],
+               "starting_orientation": -1.6223974607767515,
+               "percentage_covered": 0.29313211568787884,
+               "time_until_collision": 0.11093592643737793,
+               "distance_travelled": 1.3583804273392044,
+               "total_track_length": 463.402116193089,
+               "avg_speed": 1.4037333333333333,
+               "timesteps": 125
+          },
+          "point_12": {
+               "starting_position": [
+                    -23.31172042677143,
+                    -13.170555022700164
+               ],
+               "starting_orientation": 1.4753974365922007,
+               "percentage_covered": 6.01494815647057,
+               "time_until_collision": 2.392606258392334,
+               "distance_travelled": 27.873397045001816,
+               "total_track_length": 463.402116193089,
+               "avg_speed": 1.4032556093268806,
+               "timesteps": 2273
+          },
+          "point_13": {
+               "starting_position": [
+                    -6.612139590814343,
+                    -10.384108530812275
+               ],
+               "starting_orientation": -2.13780553292074,
+               "percentage_covered": 6.353373039411558,
+               "time_until_collision": 2.0068247318267822,
+               "distance_travelled": 29.44166511427434,
+               "total_track_length": 463.402116193089,
+               "avg_speed": 1.4130921619293713,
+               "timesteps": 2322
+          },
+          "point_14": {
+               "starting_position": [
+                    -58.58444841066055,
+                    -23.98312047615862
+               ],
+               "starting_orientation": -0.2564519069883046,
+               "percentage_covered": 4.570006306960872,
+               "time_until_collision": 1.521554708480835,
+               "distance_travelled": 21.177505936614317,
+               "total_track_length": 463.402116193089,
+               "avg_speed": 1.3174778761061952,
+               "timesteps": 1808
+          },
+          "point_15": {
+               "starting_position": [
+                    -18.992642831670963,
+                    -29.31198053004245
+               ],
+               "starting_orientation": -2.366552690330781,
+               "percentage_covered": 1.2834164303456705,
+               "time_until_collision": 0.4414701461791992,
+               "distance_travelled": 5.947378897791639,
+               "total_track_length": 463.402116193089,
+               "avg_speed": 1.3801587301587301,
+               "timesteps": 504
+          },
+          "point_16": {
+               "starting_position": [
+                    -53.11309117555973,
+                    -24.93072539728501
+               ],
+               "starting_orientation": -0.17732347498577003,
+               "percentage_covered": 3.380544245347631,
+               "time_until_collision": 1.1191952228546143,
+               "distance_travelled": 15.665513571784611,
+               "total_track_length": 463.402116193089,
+               "avg_speed": 1.3528744140143105,
+               "timesteps": 1351
+          },
+          "point_17": {
+               "starting_position": [
+                    -122.8536568876421,
+                    -47.401948185848354
+               ],
+               "starting_orientation": 0.154467628973878,
+               "percentage_covered": 8.218936088330361,
+               "time_until_collision": 2.73769211769104,
+               "distance_travelled": 38.086723761880386,
+               "total_track_length": 463.402116193089,
+               "avg_speed": 1.365550339071466,
+               "timesteps": 3195
+          },
+          "point_18": {
+               "starting_position": [
+                    -15.144430310404228,
+                    -23.78223477852736
+               ],
+               "starting_orientation": -2.139059967675654,
+               "percentage_covered": 3.164099791227489,
+               "time_until_collision": 1.0610523223876953,
+               "distance_travelled": 14.662505391009297,
+               "total_track_length": 463.402116193089,
+               "avg_speed": 1.335377993005112,
+               "timesteps": 1239
+          },
+          "point_19": {
+               "starting_position": [
+                    -19.755935797365208,
+                    -21.354934125903718
+               ],
+               "starting_orientation": 1.0027142104106415,
+               "percentage_covered": 1.806556547574198,
+               "time_until_collision": 0.6446220874786377,
+               "distance_travelled": 8.371621271683642,
+               "total_track_length": 463.402116193089,
+               "avg_speed": 1.1973029919932576,
+               "timesteps": 791
+          }
+     },
+     "Melbourne": {
+          "point_0": {
+               "starting_position": [
+                    -14.19469623627753,
+                    13.661150692973973
+               ],
+               "starting_orientation": 2.3784086764867984,
+               "percentage_covered": 2.4973693555092398,
+               "time_until_collision": 0.8396110534667969,
+               "distance_travelled": 11.833079303632257,
+               "total_track_length": 473.8217547808169,
+               "avg_speed": 1.3614243323442137,
+               "timesteps": 1011
+          },
+          "point_1": {
+               "starting_position": [
+                    9.679156403877355,
+                    -9.310022231905796
+               ],
+               "starting_orientation": 2.37598758659314,
+               "percentage_covered": 9.564769076874203,
+               "time_until_collision": 3.0875163078308105,
+               "distance_travelled": 45.31995668077829,
+               "total_track_length": 473.8217547808169,
+               "avg_speed": 1.4433035714285716,
+               "timesteps": 3584
+          },
+          "point_2": {
+               "starting_position": [
+                    20.95115533018036,
+                    83.61476021349732
+               ],
+               "starting_orientation": -1.339156201114445,
+               "percentage_covered": 1.0070590603324572,
+               "time_until_collision": 0.3561077117919922,
+               "distance_travelled": 4.771664911346454,
+               "total_track_length": 473.8217547808169,
+               "avg_speed": 1.2494382022471913,
+               "timesteps": 445
+          },
+          "point_3": {
+               "starting_position": [
+                    46.70699192953053,
+                    -27.2551002455393
+               ],
+               "starting_orientation": 2.102351187768804,
+               "percentage_covered": 3.8471525246694496,
+               "time_until_collision": 1.3364384174346924,
+               "distance_travelled": 18.228645601483286,
+               "total_track_length": 473.8217547808169,
+               "avg_speed": 1.295320197044335,
+               "timesteps": 1624
+          },
+          "point_4": {
+               "starting_position": [
+                    66.13600404720475,
+                    2.4736277762538235
+               ],
+               "starting_orientation": -1.0312853070048502,
+               "percentage_covered": 6.788289828376507,
+               "time_until_collision": 2.2736613750457764,
+               "distance_travelled": 32.16439398442127,
+               "total_track_length": 473.8217547808169,
+               "avg_speed": 1.4038610038610042,
+               "timesteps": 2590
+          },
+          "point_5": {
+               "starting_position": [
+                    -10.96360623469354,
+                    10.56250028098513
+               ],
+               "starting_orientation": 2.376349406700423,
+               "percentage_covered": 3.403452243929548,
+               "time_until_collision": 1.1096148490905762,
+               "distance_travelled": 16.126297145314073,
+               "total_track_length": 473.8217547808169,
+               "avg_speed": 1.3828741623231573,
+               "timesteps": 1343
+          },
+          "point_6": {
+               "starting_position": [
+                    8.352923751880176,
+                    112.35221540577926
+               ],
+               "starting_orientation": -0.5105303324877163,
+               "percentage_covered": 2.0983346984159774,
+               "time_until_collision": 0.7514097690582275,
+               "distance_travelled": 9.942366289209346,
+               "total_track_length": 473.8217547808169,
+               "avg_speed": 1.2783333333333333,
+               "timesteps": 880
+          },
+          "point_7": {
+               "starting_position": [
+                    -43.48255116205404,
+                    90.42374447968916
+               ],
+               "starting_orientation": 1.6488658704631076,
+               "percentage_covered": 1.6042026588910685,
+               "time_until_collision": 0.5673089027404785,
+               "distance_travelled": 7.601061188598183,
+               "total_track_length": 473.8217547808169,
+               "avg_speed": 1.2903597122302162,
+               "timesteps": 695
+          },
+          "point_8": {
+               "starting_position": [
+                    60.05597787251424,
+                    8.96541427119897
+               ],
+               "starting_orientation": -0.679737638122489,
+               "percentage_covered": 2.081634566046808,
+               "time_until_collision": 0.7192919254302979,
+               "distance_travelled": 9.863237428967029,
+               "total_track_length": 473.8217547808169,
+               "avg_speed": 1.3431163708086788,
+               "timesteps": 845
+          },
+          "point_9": {
+               "starting_position": [
+                    53.52185245457476,
+                    14.40899360106894
+               ],
+               "starting_orientation": -0.6789494105812155,
+               "percentage_covered": 3.937700957077211,
+               "time_until_collision": 1.2946243286132812,
+               "distance_travelled": 18.657683772844262,
+               "total_track_length": 473.8217547808169,
+               "avg_speed": 1.4083112290008843,
+               "timesteps": 1508
+          },
+          "point_10": {
+               "starting_position": [
+                    -43.901029636164495,
+                    80.43135086293286
+               ],
+               "starting_orientation": 0.8870486652284596,
+               "percentage_covered": 4.789907956991389,
+               "time_until_collision": 1.599764347076416,
+               "distance_travelled": 22.695625934202575,
+               "total_track_length": 473.8217547808169,
+               "avg_speed": 1.3851380042462846,
+               "timesteps": 1884
+          },
+          "point_11": {
+               "starting_position": [
+                    -22.27289316150112,
+                    32.44436006524089
+               ],
+               "starting_orientation": 1.7605497419380483,
+               "percentage_covered": 11.519880922105912,
+               "time_until_collision": 3.776685953140259,
+               "distance_travelled": 54.583701933782784,
+               "total_track_length": 473.8217547808169,
+               "avg_speed": 1.413968399358828,
+               "timesteps": 4367
+          },
+          "point_12": {
+               "starting_position": [
+                    20.355318149214657,
+                    31.35611177948144
+               ],
+               "starting_orientation": -0.7947758021021509,
+               "percentage_covered": 5.81112308287581,
+               "time_until_collision": 1.8765068054199219,
+               "distance_travelled": 27.534365363755267,
+               "total_track_length": 473.8217547808169,
+               "avg_speed": 1.3665353756382204,
+               "timesteps": 2285
+          },
+          "point_13": {
+               "starting_position": [
+                    -12.255396197717548,
+                    11.802801374117504
+               ],
+               "starting_orientation": 2.377085746965533,
+               "percentage_covered": 3.0177284893782486,
+               "time_until_collision": 0.9883239269256592,
+               "distance_travelled": 14.298654082892655,
+               "total_track_length": 473.8217547808169,
+               "avg_speed": 1.3795600111389585,
+               "timesteps": 1197
+          },
+          "point_14": {
+               "starting_position": [
+                    -43.68430012030691,
+                    93.5513922939912
+               ],
+               "starting_orientation": 1.5984042821138333,
+               "percentage_covered": 1.3202147350438667,
+               "time_until_collision": 0.492755651473999,
+               "distance_travelled": 6.255464624459761,
+               "total_track_length": 473.8217547808169,
+               "avg_speed": 1.2072607260726074,
+               "timesteps": 606
+          },
+          "point_15": {
+               "starting_position": [
+                    -41.7567050716772,
+                    102.12204776227684
+               ],
+               "starting_orientation": 0.6753298369931131,
+               "percentage_covered": 2.4489021614968505,
+               "time_until_collision": 0.8319737911224365,
+               "distance_travelled": 11.603431194469731,
+               "total_track_length": 473.8217547808169,
+               "avg_speed": 1.4050739957716705,
+               "timesteps": 946
+          },
+          "point_16": {
+               "starting_position": [
+                    -43.0904919546328,
+                    85.06715297095653
+               ],
+               "starting_orientation": 1.6385305493584843,
+               "percentage_covered": 3.611943749886029,
+               "time_until_collision": 1.2420895099639893,
+               "distance_travelled": 17.11417525740602,
+               "total_track_length": 473.8217547808169,
+               "avg_speed": 1.37839592025962,
+               "timesteps": 1438
+          },
+          "point_17": {
+               "starting_position": [
+                    -26.470864667124687,
+                    112.10976530836923
+               ],
+               "starting_orientation": 0.37131856932643603,
+               "percentage_covered": 3.2887703798028167,
+               "time_until_collision": 1.1134474277496338,
+               "distance_travelled": 15.582909524293443,
+               "total_track_length": 473.8217547808169,
+               "avg_speed": 1.3263525305410124,
+               "timesteps": 1337
+          },
+          "point_18": {
+               "starting_position": [
+                    43.80186512759868,
+                    20.93543527262686
+               ],
+               "starting_orientation": 0.16682817190725538,
+               "percentage_covered": 0.32512697292285914,
+               "time_until_collision": 0.13009333610534668,
+               "distance_travelled": 1.5405223283688425,
+               "total_track_length": 473.8217547808169,
+               "avg_speed": 1.408857808857809,
+               "timesteps": 143
+          },
+          "point_19": {
+               "starting_position": [
+                    35.393481027706784,
+                    19.70763640085105
+               ],
+               "starting_orientation": 0.06637995424683658,
+               "percentage_covered": 1.6449492174892888,
+               "time_until_collision": 0.5756299495697021,
+               "distance_travelled": 7.794127247561064,
+               "total_track_length": 473.8217547808169,
+               "avg_speed": 1.2971428571428574,
+               "timesteps": 700
+          }
+     },
+     "Budapest": {
+          "point_0": {
+               "starting_position": [
+                    -2.027355531308161,
+                    24.292245044309254
+               ],
+               "starting_orientation": 1.2956272434953602,
+               "percentage_covered": 18.968512716927602,
+               "time_until_collision": 5.418946027755737,
+               "distance_travelled": 76.27718062278598,
+               "total_track_length": 402.1252575839318,
+               "avg_speed": 1.398681793625068,
+               "timesteps": 6170
+          },
+          "point_1": {
+               "starting_position": [
+                    -20.44289558204625,
+                    32.093106046019315
+               ],
+               "starting_orientation": -0.69672462880034,
+               "percentage_covered": 8.895092946190637,
+               "time_until_collision": 2.518728017807007,
+               "distance_travelled": 35.769415422199245,
+               "total_track_length": 402.1252575839318,
+               "avg_speed": 1.3238221632382217,
+               "timesteps": 3014
+          },
+          "point_2": {
+               "starting_position": [
+                    43.85321072848825,
+                    12.95262662923817
+               ],
+               "starting_orientation": -2.327624514357249,
+               "percentage_covered": 4.358087786582019,
+               "time_until_collision": 1.2439897060394287,
+               "distance_travelled": 17.524971737526815,
+               "total_track_length": 402.1252575839318,
+               "avg_speed": 1.3973222530009235,
+               "timesteps": 1444
+          },
+          "point_3": {
+               "starting_position": [
+                    -34.78471509022118,
+                    28.656256568228965
+               ],
+               "starting_orientation": 2.4481040431388386,
+               "percentage_covered": 3.7887047902941235,
+               "time_until_collision": 1.1089062690734863,
+               "distance_travelled": 15.235338897065008,
+               "total_track_length": 402.1252575839318,
+               "avg_speed": 1.3428056628056628,
+               "timesteps": 1295
+          },
+          "point_4": {
+               "starting_position": [
+                    7.880262089775064,
+                    67.72397795759215
+               ],
+               "starting_orientation": 1.0284457739985462,
+               "percentage_covered": 6.904902367829914,
+               "time_until_collision": 1.9806182384490967,
+               "distance_travelled": 27.766356432555046,
+               "total_track_length": 402.1252575839318,
+               "avg_speed": 1.3961538461538463,
+               "timesteps": 2288
+          },
+          "point_5": {
+               "starting_position": [
+                    54.86522138004218,
+                    28.190647885086147
+               ],
+               "starting_orientation": -1.5701774143600336,
+               "percentage_covered": 0.41151906540824396,
+               "time_until_collision": 0.1381237506866455,
+               "distance_travelled": 1.6548221017798899,
+               "total_track_length": 402.1252575839318,
+               "avg_speed": 1.3525054466230937,
+               "timesteps": 153
+          },
+          "point_6": {
+               "starting_position": [
+                    -7.575489083590467,
+                    21.69115364521489
+               ],
+               "starting_orientation": -0.3121790778387335,
+               "percentage_covered": 4.699853847041462,
+               "time_until_collision": 1.3452849388122559,
+               "distance_travelled": 18.899299388483804,
+               "total_track_length": 402.1252575839318,
+               "avg_speed": 1.3096425602660018,
+               "timesteps": 1604
+          },
+          "point_7": {
+               "starting_position": [
+                    47.32879845224412,
+                    16.630866765117137
+               ],
+               "starting_orientation": -2.3272821455132773,
+               "percentage_covered": 6.100085636152672,
+               "time_until_collision": 1.7135300636291504,
+               "distance_travelled": 24.529985077219354,
+               "total_track_length": 402.1252575839318,
+               "avg_speed": 1.3920634920634922,
+               "timesteps": 2016
+          },
+          "point_8": {
+               "starting_position": [
+                    40.385360480902506,
+                    9.268187939857617
+               ],
+               "starting_orientation": -2.3223749681385817,
+               "percentage_covered": 3.583781732158177,
+               "time_until_collision": 1.0008909702301025,
+               "distance_travelled": 14.41129152168696,
+               "total_track_length": 402.1252575839318,
+               "avg_speed": 1.3653421633554086,
+               "timesteps": 1208
+          },
+          "point_9": {
+               "starting_position": [
+                    -26.68328899782719,
+                    36.77159790274322
+               ],
+               "starting_orientation": -0.5307368589277452,
+               "percentage_covered": 10.879038319650235,
+               "time_until_collision": 3.060657024383545,
+               "distance_travelled": 43.74736086554815,
+               "total_track_length": 402.1252575839318,
+               "avg_speed": 1.3394555952708278,
+               "timesteps": 3637
+          },
+          "point_10": {
+               "starting_position": [
+                    37.61179099634032,
+                    63.76847677193452
+               ],
+               "starting_orientation": -0.687149967361073,
+               "percentage_covered": 2.068987547047093,
+               "time_until_collision": 0.609839677810669,
+               "distance_travelled": 8.319921502942595,
+               "total_track_length": 402.1252575839318,
+               "avg_speed": 1.3302452316076296,
+               "timesteps": 734
+          },
+          "point_11": {
+               "starting_position": [
+                    -21.85227032203878,
+                    33.2800017408137
+               ],
+               "starting_orientation": -0.699803892658967,
+               "percentage_covered": 9.351333902655862,
+               "time_until_collision": 2.7517659664154053,
+               "distance_travelled": 37.60407554358842,
+               "total_track_length": 402.1252575839318,
+               "avg_speed": 1.3201043296817945,
+               "timesteps": 3195
+          },
+          "point_12": {
+               "starting_position": [
+                    -1.9626025845220767,
+                    27.883694761449487
+               ],
+               "starting_orientation": 1.9970513516706518,
+               "percentage_covered": 17.760283850153865,
+               "time_until_collision": 5.118131875991821,
+               "distance_travelled": 71.41858718006867,
+               "total_track_length": 402.1252575839318,
+               "avg_speed": 1.3995617070357556,
+               "timesteps": 5780
+          },
+          "point_13": {
+               "starting_position": [
+                    -3.641508808430303,
+                    22.143195323714156
+               ],
+               "starting_orientation": 0.6505040704964496,
+               "percentage_covered": 3.7169150995837597,
+               "time_until_collision": 1.0887434482574463,
+               "distance_travelled": 14.94665441837725,
+               "total_track_length": 402.1252575839318,
+               "avg_speed": 1.3185867895545316,
+               "timesteps": 1302
+          },
+          "point_14": {
+               "starting_position": [
+                    12.587182578735115,
+                    85.9073819497454
+               ],
+               "starting_orientation": 1.8144378289679788,
+               "percentage_covered": 1.5217185975738958,
+               "time_until_collision": 0.4644448757171631,
+               "distance_travelled": 6.119214830196623,
+               "total_track_length": 402.1252575839318,
+               "avg_speed": 1.291888691533452,
+               "timesteps": 563
+          },
+          "point_15": {
+               "starting_position": [
+                    49.84759975352527,
+                    19.309637748680498
+               ],
+               "starting_orientation": -2.324506948914283,
+               "percentage_covered": 7.864164320532585,
+               "time_until_collision": 2.295300245285034,
+               "distance_travelled": 31.623791030765318,
+               "total_track_length": 402.1252575839318,
+               "avg_speed": 1.3812307692307693,
+               "timesteps": 2600
+          },
+          "point_16": {
+               "starting_position": [
+                    12.146985481480222,
+                    87.69361209419657
+               ],
+               "starting_orientation": 1.8082072948054813,
+               "percentage_covered": 2.4218749183119277,
+               "time_until_collision": 0.6944403648376465,
+               "distance_travelled": 9.738970753622477,
+               "total_track_length": 402.1252575839318,
+               "avg_speed": 1.291103202846975,
+               "timesteps": 843
+          },
+          "point_17": {
+               "starting_position": [
+                    28.357440667216203,
+                    90.62723431926638
+               ],
+               "starting_orientation": -0.8543468022277937,
+               "percentage_covered": 2.206289023891099,
+               "time_until_collision": 0.6594040393829346,
+               "distance_travelled": 8.872045420368096,
+               "total_track_length": 402.1252575839318,
+               "avg_speed": 1.288723667905824,
+               "timesteps": 807
+          },
+          "point_18": {
+               "starting_position": [
+                    -30.941215392101125,
+                    38.47912518170885
+               ],
+               "starting_orientation": -0.28732526338195075,
+               "percentage_covered": 0.48487611261529434,
+               "time_until_collision": 0.16448712348937988,
+               "distance_travelled": 1.9498093168172075,
+               "total_track_length": 402.1252575839318,
+               "avg_speed": 1.3690346083788707,
+               "timesteps": 183
+          },
+          "point_19": {
+               "starting_position": [
+                    -11.704188836531884,
+                    9.660486931368748
+               ],
+               "starting_orientation": 2.4507185489907006,
+               "percentage_covered": 10.583356523675318,
+               "time_until_collision": 2.9937331676483154,
+               "distance_travelled": 42.55834968185522,
+               "total_track_length": 402.1252575839318,
+               "avg_speed": 1.4440139095876805,
+               "timesteps": 3355
+          }
+     },
+     "Spielberg": {
+          "point_0": {
+               "starting_position": [
+                    -35.704287836689936,
+                    49.29682512936605
+               ],
+               "starting_orientation": -0.16694138333125239,
+               "percentage_covered": 5.972114176258241,
+               "time_until_collision": 1.426121473312378,
+               "distance_travelled": 20.47987552392474,
+               "total_track_length": 342.9250499821517,
+               "avg_speed": 1.4115384615384616,
+               "timesteps": 1664
+          },
+          "point_1": {
+               "starting_position": [
+                    -46.75731871900259,
+                    26.88167153290799
+               ],
+               "starting_orientation": -1.07966755307503,
+               "percentage_covered": 9.517482251114124,
+               "time_until_collision": 2.399751901626587,
+               "distance_travelled": 32.63783076667553,
+               "total_track_length": 342.9250499821517,
+               "avg_speed": 1.3233951497860201,
+               "timesteps": 2804
+          },
+          "point_2": {
+               "starting_position": [
+                    -41.30746520078509,
+                    17.653058358719132
+               ],
+               "starting_orientation": -0.7816162506688924,
+               "percentage_covered": 4.104399976885286,
+               "time_until_collision": 1.0489892959594727,
+               "distance_travelled": 14.075015672201292,
+               "total_track_length": 342.9250499821517,
+               "avg_speed": 1.321654501216545,
+               "timesteps": 1233
+          },
+          "point_3": {
+               "starting_position": [
+                    -52.489605582943504,
+                    18.5398011618501
+               ],
+               "starting_orientation": 2.025438919976511,
+               "percentage_covered": 12.086015853455361,
+               "time_until_collision": 2.847855806350708,
+               "distance_travelled": 41.445975906312576,
+               "total_track_length": 342.9250499821517,
+               "avg_speed": 1.4264840182648404,
+               "timesteps": 3285
+          },
+          "point_4": {
+               "starting_position": [
+                    -46.194252076816575,
+                    25.82810395754652
+               ],
+               "starting_orientation": -1.074396227714548,
+               "percentage_covered": 9.186288926107924,
+               "time_until_collision": 2.319561719894409,
+               "distance_travelled": 31.502085891360462,
+               "total_track_length": 342.9250499821517,
+               "avg_speed": 1.3129959956315984,
+               "timesteps": 2747
+          },
+          "point_5": {
+               "starting_position": [
+                    -29.93352330877641,
+                    35.9372879282521
+               ],
+               "starting_orientation": 3.0125529853479565,
+               "percentage_covered": 17.8222448041518,
+               "time_until_collision": 4.532902240753174,
+               "distance_travelled": 61.11694190257899,
+               "total_track_length": 342.9250499821517,
+               "avg_speed": 1.293450052772087,
+               "timesteps": 5369
+          },
+          "point_6": {
+               "starting_position": [
+                    -42.88103523266215,
+                    37.9537232221473
+               ],
+               "starting_orientation": -3.0389099518924634,
+               "percentage_covered": 11.560820767838278,
+               "time_until_collision": 2.9244532585144043,
+               "distance_travelled": 39.64495039645639,
+               "total_track_length": 342.9250499821517,
+               "avg_speed": 1.3119830736680131,
+               "timesteps": 3466
+          },
+          "point_7": {
+               "starting_position": [
+                    -37.112872367036594,
+                    -5.061456254348504
+               ],
+               "starting_orientation": 2.1812747292074786,
+               "percentage_covered": 4.865167844341844,
+               "time_until_collision": 1.2284307479858398,
+               "distance_travelled": 16.68387926192484,
+               "total_track_length": 342.9250499821517,
+               "avg_speed": 1.4431726907630524,
+               "timesteps": 1328
+          },
+          "point_8": {
+               "starting_position": [
+                    -47.82260228722377,
+                    35.066187717084375
+               ],
+               "starting_orientation": -2.0393067071596764,
+               "percentage_covered": 9.770173746370638,
+               "time_until_collision": 2.435671091079712,
+               "distance_travelled": 33.50437320308457,
+               "total_track_length": 342.9250499821517,
+               "avg_speed": 1.330372426555633,
+               "timesteps": 2882
+          },
+          "point_9": {
+               "starting_position": [
+                    -48.57673732452752,
+                    11.16709836351214
+               ],
+               "starting_orientation": 2.0905555785660512,
+               "percentage_covered": 14.281551783913423,
+               "time_until_collision": 3.4460480213165283,
+               "distance_travelled": 48.975018593211985,
+               "total_track_length": 342.9250499821517,
+               "avg_speed": 1.4312869252504494,
+               "timesteps": 3893
+          },
+          "point_10": {
+               "starting_position": [
+                    -30.270680268236188,
+                    20.298448891886125
+               ],
+               "starting_orientation": 0.7877033013359791,
+               "percentage_covered": 2.0425982754361516,
+               "time_until_collision": 0.5313961505889893,
+               "distance_travelled": 7.004581156973991,
+               "total_track_length": 342.9250499821517,
+               "avg_speed": 1.2924905456509996,
+               "timesteps": 617
+          },
+          "point_11": {
+               "starting_position": [
+                    -43.13029495773565,
+                    3.339204587962038
+               ],
+               "starting_orientation": 2.192054931875031,
+               "percentage_covered": 4.201172278383015,
+               "time_until_collision": 1.0708212852478027,
+               "distance_travelled": 14.406872135481255,
+               "total_track_length": 342.9250499821517,
+               "avg_speed": 1.4280885780885784,
+               "timesteps": 1144
+          },
+          "point_12": {
+               "starting_position": [
+                    -29.55847652959351,
+                    -7.951318473840951
+               ],
+               "starting_orientation": -2.878557351373585,
+               "percentage_covered": 1.2771918281131749,
+               "time_until_collision": 0.36176156997680664,
+               "distance_travelled": 4.379810714925061,
+               "total_track_length": 342.9250499821517,
+               "avg_speed": 1.2552058111380147,
+               "timesteps": 413
+          },
+          "point_13": {
+               "starting_position": [
+                    -55.69512528729603,
+                    25.3791976391962
+               ],
+               "starting_orientation": 1.9997548330858494,
+               "percentage_covered": 2.3124945491506668,
+               "time_until_collision": 0.5774862766265869,
+               "distance_travelled": 7.930123088509457,
+               "total_track_length": 342.9250499821517,
+               "avg_speed": 1.3406364110589466,
+               "timesteps": 639
+          },
+          "point_14": {
+               "starting_position": [
+                    -57.3539937553116,
+                    28.99160325976532
+               ],
+               "starting_orientation": 1.998372585981173,
+               "percentage_covered": 8.570270140354708,
+               "time_until_collision": 2.201484203338623,
+               "distance_travelled": 29.3896031624168,
+               "total_track_length": 342.9250499821517,
+               "avg_speed": 1.4294309635305804,
+               "timesteps": 2349
+          },
+          "point_15": {
+               "starting_position": [
+                    -60.58352445884239,
+                    34.90518307230783
+               ],
+               "starting_orientation": 2.149694639948701,
+               "percentage_covered": 6.155324551362843,
+               "time_until_collision": 1.4862065315246582,
+               "distance_travelled": 21.10814979432468,
+               "total_track_length": 342.9250499821517,
+               "avg_speed": 1.4035617499032136,
+               "timesteps": 1722
+          },
+          "point_16": {
+               "starting_position": [
+                    -14.703556400500371,
+                    47.8734776651785
+               ],
+               "starting_orientation": -0.10322683066264877,
+               "percentage_covered": 1.1969764980797886,
+               "time_until_collision": 0.303544282913208,
+               "distance_travelled": 4.104732254314723,
+               "total_track_length": 342.9250499821517,
+               "avg_speed": 1.3957610789980734,
+               "timesteps": 346
+          },
+          "point_17": {
+               "starting_position": [
+                    -44.43096826127605,
+                    37.6841028762339
+               ],
+               "starting_orientation": -2.7665359684982764,
+               "percentage_covered": 13.340929387030334,
+               "time_until_collision": 3.397570848464966,
+               "distance_travelled": 45.74938876855733,
+               "total_track_length": 342.9250499821517,
+               "avg_speed": 1.3075214959512482,
+               "timesteps": 3993
+          },
+          "point_18": {
+               "starting_position": [
+                    -41.80309722107828,
+                    18.26716418604753
+               ],
+               "starting_orientation": -0.8917537000387619,
+               "percentage_covered": 4.248413755770876,
+               "time_until_collision": 1.078540563583374,
+               "distance_travelled": 14.568874995425887,
+               "total_track_length": 342.9250499821517,
+               "avg_speed": 1.3024528789052414,
+               "timesteps": 1291
+          },
+          "point_19": {
+               "starting_position": [
+                    -45.866549154918026,
+                    37.01192354238096
+               ],
+               "starting_orientation": -2.5205542665798815,
+               "percentage_covered": 10.690328156377344,
+               "time_until_collision": 2.6689963340759277,
+               "distance_travelled": 36.659813173513044,
+               "total_track_length": 342.9250499821517,
+               "avg_speed": 1.3198953427524855,
+               "timesteps": 3185
+          }
+     },
+     "Zandvoort": {
+          "point_0": {
+               "starting_position": [
+                    64.33858578781177,
+                    -9.94982929381999
+               ],
+               "starting_orientation": 1.7654009376158042,
+               "percentage_covered": 13.125339183877237,
+               "time_until_collision": 3.652395725250244,
+               "distance_travelled": 50.85989106263125,
+               "total_track_length": 387.4939180627497,
+               "avg_speed": 1.367165139089886,
+               "timesteps": 4146
+          },
+          "point_1": {
+               "starting_position": [
+                    51.12087773255489,
+                    2.460701023993209
+               ],
+               "starting_orientation": 0.33607622152404537,
+               "percentage_covered": 4.569866964118318,
+               "time_until_collision": 1.2161352634429932,
+               "distance_travelled": 17.707956549517302,
+               "total_track_length": 387.4939180627497,
+               "avg_speed": 1.4222847759793575,
+               "timesteps": 1421
+          },
+          "point_2": {
+               "starting_position": [
+                    6.877272181281032,
+                    0.6820151692004268
+               ],
+               "starting_orientation": -2.8041177491674505,
+               "percentage_covered": 7.088414207115368,
+               "time_until_collision": 2.044975519180298,
+               "distance_travelled": 27.46717393966793,
+               "total_track_length": 387.4939180627497,
+               "avg_speed": 1.3102321582115222,
+               "timesteps": 2326
+          },
+          "point_3": {
+               "starting_position": [
+                    -4.312797091644756,
+                    -42.73193782492472
+               ],
+               "starting_orientation": 2.6815053313341384,
+               "percentage_covered": 3.967182115405097,
+               "time_until_collision": 1.1629185676574707,
+               "distance_travelled": 15.372589415667886,
+               "total_track_length": 387.4939180627497,
+               "avg_speed": 1.2726199261992621,
+               "timesteps": 1355
+          },
+          "point_4": {
+               "starting_position": [
+                    67.37208473598467,
+                    -23.201226750426876
+               ],
+               "starting_orientation": -2.0130880823519544,
+               "percentage_covered": 0.9257805294089458,
+               "time_until_collision": 0.2881741523742676,
+               "distance_travelled": 3.587343246068791,
+               "total_track_length": 387.4939180627497,
+               "avg_speed": 1.2519579751671446,
+               "timesteps": 349
+          },
+          "point_5": {
+               "starting_position": [
+                    56.48520650410908,
+                    -16.46964733533541
+               ],
+               "starting_orientation": 0.26288891869314757,
+               "percentage_covered": 8.56276978003581,
+               "time_until_collision": 2.3664865493774414,
+               "distance_travelled": 33.180212115353854,
+               "total_track_length": 387.4939180627497,
+               "avg_speed": 1.299570815450644,
+               "timesteps": 2796
+          },
+          "point_6": {
+               "starting_position": [
+                    42.23057915851904,
+                    -2.7606757143996545
+               ],
+               "starting_orientation": 0.4750439364769799,
+               "percentage_covered": 6.490620814211495,
+               "time_until_collision": 1.7817034721374512,
+               "distance_travelled": 25.15076089958447,
+               "total_track_length": 387.4939180627497,
+               "avg_speed": 1.388959452857841,
+               "timesteps": 2047
+          },
+          "point_7": {
+               "starting_position": [
+                    4.656623061128803,
+                    -6.723528607313031
+               ],
+               "starting_orientation": 0.08914915174449876,
+               "percentage_covered": 18.29204027497349,
+               "time_until_collision": 4.99326753616333,
+               "distance_travelled": 70.88054355511096,
+               "total_track_length": 387.4939180627497,
+               "avg_speed": 1.384672463768116,
+               "timesteps": 5750
+          },
+          "point_8": {
+               "starting_position": [
+                    44.20103984180556,
+                    -1.6861159453140562
+               ],
+               "starting_orientation": 0.5410052774577465,
+               "percentage_covered": 6.117616646565692,
+               "time_until_collision": 1.662113904953003,
+               "distance_travelled": 23.705392435836398,
+               "total_track_length": 387.4939180627497,
+               "avg_speed": 1.3854469854469857,
+               "timesteps": 1924
+          },
+          "point_9": {
+               "starting_position": [
+                    68.92111226198321,
+                    2.890259854795391
+               ],
+               "starting_orientation": -0.24789550696893872,
+               "percentage_covered": 3.904198468206194,
+               "time_until_collision": 1.0991671085357666,
+               "distance_travelled": 15.128531613398035,
+               "total_track_length": 387.4939180627497,
+               "avg_speed": 1.3134729764675461,
+               "timesteps": 1289
+          },
+          "point_10": {
+               "starting_position": [
+                    2.3899919992362157,
+                    -1.2690242817024948
+               ],
+               "starting_orientation": -2.159991418243843,
+               "percentage_covered": 5.822269359140069,
+               "time_until_collision": 1.6017019748687744,
+               "distance_travelled": 22.5609396598988,
+               "total_track_length": 387.4939180627497,
+               "avg_speed": 1.3638978784609854,
+               "timesteps": 1854
+          },
+          "point_11": {
+               "starting_position": [
+                    62.54959003144166,
+                    -6.995772507913634
+               ],
+               "starting_orientation": 2.6768461120884655,
+               "percentage_covered": 1.8873660297428387,
+               "time_until_collision": 0.5117697715759277,
+               "distance_travelled": 7.3134285768358875,
+               "total_track_length": 387.4939180627497,
+               "avg_speed": 1.3342450142450146,
+               "timesteps": 585
+          },
+          "point_12": {
+               "starting_position": [
+                    14.311802838264468,
+                    -14.360228566585274
+               ],
+               "starting_orientation": 2.1201715230854403,
+               "percentage_covered": 7.922163368381183,
+               "time_until_collision": 2.1704089641571045,
+               "distance_travelled": 30.697901231472148,
+               "total_track_length": 387.4939180627497,
+               "avg_speed": 1.383140231721934,
+               "timesteps": 2503
+          },
+          "point_13": {
+               "starting_position": [
+                    2.802753583275152,
+                    7.105400211296071
+               ],
+               "starting_orientation": 1.1955687648771391,
+               "percentage_covered": 6.0202456578280685,
+               "time_until_collision": 1.649986743927002,
+               "distance_travelled": 23.328085776520542,
+               "total_track_length": 387.4939180627497,
+               "avg_speed": 1.4418771269926567,
+               "timesteps": 1861
+          },
+          "point_14": {
+               "starting_position": [
+                    63.79502900000424,
+                    -12.535327005611862
+               ],
+               "starting_orientation": 1.1830937637131536,
+               "percentage_covered": 13.767723566075233,
+               "time_until_collision": 3.8057796955108643,
+               "distance_travelled": 53.34909147423344,
+               "total_track_length": 387.4939180627497,
+               "avg_speed": 1.346190258054665,
+               "timesteps": 4366
+          },
+          "point_15": {
+               "starting_position": [
+                    60.699661385259496,
+                    -29.033321672106567
+               ],
+               "starting_orientation": 3.067678241925175,
+               "percentage_covered": 3.317927853021671,
+               "time_until_collision": 0.9164729118347168,
+               "distance_travelled": 12.856768636168944,
+               "total_track_length": 387.4939180627497,
+               "avg_speed": 1.31841067637246,
+               "timesteps": 1099
+          },
+          "point_16": {
+               "starting_position": [
+                    38.36013583838255,
+                    -3.893340281931492
+               ],
+               "starting_orientation": 0.20194959135072774,
+               "percentage_covered": 2.968008013705272,
+               "time_until_collision": 0.7969117164611816,
+               "distance_travelled": 11.50085054072295,
+               "total_track_length": 387.4939180627497,
+               "avg_speed": 1.4564324324324327,
+               "timesteps": 925
+          },
+          "point_17": {
+               "starting_position": [
+                    57.782843697102,
+                    -16.1097763714392
+               ],
+               "starting_orientation": 0.30781133656960447,
+               "percentage_covered": 8.089982698374017,
+               "time_until_collision": 2.248281955718994,
+               "distance_travelled": 31.348190928528044,
+               "total_track_length": 387.4939180627497,
+               "avg_speed": 1.292342512259525,
+               "timesteps": 2651
+          },
+          "point_18": {
+               "starting_position": [
+                    45.65263019687672,
+                    -6.12471767100806
+               ],
+               "starting_orientation": -3.0166367608105005,
+               "percentage_covered": 7.7781326053243545,
+               "time_until_collision": 2.1138877868652344,
+               "distance_travelled": 30.13979078448757,
+               "total_track_length": 387.4939180627497,
+               "avg_speed": 1.370512297866558,
+               "timesteps": 2453
+          },
+          "point_19": {
+               "starting_position": [
+                    18.415850082232836,
+                    27.186215724800217
+               ],
+               "starting_orientation": -1.8398247902200173,
+               "percentage_covered": 5.720165116145834,
+               "time_until_collision": 1.526172161102295,
+               "distance_travelled": 22.165291928212127,
+               "total_track_length": 387.4939180627497,
+               "avg_speed": 1.4293543543543545,
+               "timesteps": 1776
+          }
+     },
+     "Sakhir": {
+          "point_0": {
+               "starting_position": [
+                    37.73164793814313,
+                    -18.849162849089808
+               ],
+               "starting_orientation": -2.6342756926663276,
+               "percentage_covered": 8.820452789930195,
+               "time_until_collision": 2.7392871379852295,
+               "distance_travelled": 38.943429984128116,
+               "total_track_length": 441.512821525303,
+               "avg_speed": 1.4539910704562784,
+               "timesteps": 3061
+          },
+          "point_1": {
+               "starting_position": [
+                    42.236340465965625,
+                    53.357235719681285
+               ],
+               "starting_orientation": -0.1947714268811212,
+               "percentage_covered": 5.075824240875582,
+               "time_until_collision": 1.5569226741790771,
+               "distance_travelled": 22.410414821555072,
+               "total_track_length": 441.512821525303,
+               "avg_speed": 1.3997434487813822,
+               "timesteps": 1819
+          },
+          "point_2": {
+               "starting_position": [
+                    17.345910692945427,
+                    57.45337670652452
+               ],
+               "starting_orientation": 0.23733532726460876,
+               "percentage_covered": 0.3051596707495398,
+               "time_until_collision": 0.1283578872680664,
+               "distance_travelled": 1.347319072483618,
+               "total_track_length": 441.512821525303,
+               "avg_speed": 1.3444444444444443,
+               "timesteps": 132
+          },
+          "point_3": {
+               "starting_position": [
+                    44.56942962136736,
+                    4.477687297074821
+               ],
+               "starting_orientation": -0.21521362469731434,
+               "percentage_covered": 2.132917803084183,
+               "time_until_collision": 0.6728196144104004,
+               "distance_travelled": 9.417105573212483,
+               "total_track_length": 441.512821525303,
+               "avg_speed": 1.3716666666666668,
+               "timesteps": 800
+          },
+          "point_4": {
+               "starting_position": [
+                    25.262170461714884,
+                    34.43093900961466
+               ],
+               "starting_orientation": 1.4184298690671702,
+               "percentage_covered": 21.70479060152685,
+               "time_until_collision": 6.733115196228027,
+               "distance_travelled": 95.82943339095998,
+               "total_track_length": 441.512821525303,
+               "avg_speed": 1.4022379421221867,
+               "timesteps": 7775
+          },
+          "point_5": {
+               "starting_position": [
+                    22.38056548469719,
+                    -27.412708089716357
+               ],
+               "starting_orientation": -2.63443521609148,
+               "percentage_covered": 4.742488658338114,
+               "time_until_collision": 1.4713091850280762,
+               "distance_travelled": 20.93869548594609,
+               "total_track_length": 441.512821525303,
+               "avg_speed": 1.4157832744405185,
+               "timesteps": 1698
+          },
+          "point_6": {
+               "starting_position": [
+                    2.5578447659074124,
+                    58.8110672207112
+               ],
+               "starting_orientation": 1.398938184347296,
+               "percentage_covered": 0.4217861580925376,
+               "time_until_collision": 0.1067361831665039,
+               "distance_travelled": 1.8622399673975383,
+               "total_track_length": 441.512821525303,
+               "avg_speed": 1.7553884711779448,
+               "timesteps": 133
+          },
+          "point_7": {
+               "starting_position": [
+                    44.31208817760457,
+                    25.4047830433344
+               ],
+               "starting_orientation": 3.05576859922116,
+               "percentage_covered": 5.372167588560394,
+               "time_until_collision": 1.6863446235656738,
+               "distance_travelled": 23.71880869732083,
+               "total_track_length": 441.512821525303,
+               "avg_speed": 1.3818059751594498,
+               "timesteps": 1986
+          },
+          "point_8": {
+               "starting_position": [
+                    34.680030703558586,
+                    1.1669102467947412
+               ],
+               "starting_orientation": 0.7985767508758006,
+               "percentage_covered": 5.269923873249562,
+               "time_until_collision": 1.6789321899414062,
+               "distance_travelled": 23.267389585019675,
+               "total_track_length": 441.512821525303,
+               "avg_speed": 1.3084597236265592,
+               "timesteps": 1978
+          },
+          "point_9": {
+               "starting_position": [
+                    15.653809702007372,
+                    -10.707431664183993
+               ],
+               "starting_orientation": -1.5444844742510968,
+               "percentage_covered": 7.135958778838225,
+               "time_until_collision": 2.2212073802948,
+               "distance_travelled": 31.50617294733121,
+               "total_track_length": 441.512821525303,
+               "avg_speed": 1.3557081108568525,
+               "timesteps": 2622
+          },
+          "point_10": {
+               "starting_position": [
+                    53.30515889804232,
+                    34.716923551394515
+               ],
+               "starting_orientation": -2.314699676018245,
+               "percentage_covered": 2.409963852804433,
+               "time_until_collision": 0.7808318138122559,
+               "distance_travelled": 10.640299404256753,
+               "total_track_length": 441.512821525303,
+               "avg_speed": 1.3129649693029977,
+               "timesteps": 923
+          },
+          "point_11": {
+               "starting_position": [
+                    57.81574954654117,
+                    -4.636157474973047
+               ],
+               "starting_orientation": -1.3832637621849841,
+               "percentage_covered": 0.3691364836725756,
+               "time_until_collision": 0.12566184997558594,
+               "distance_travelled": 1.6297849043420782,
+               "total_track_length": 441.512821525303,
+               "avg_speed": 1.38719646799117,
+               "timesteps": 151
+          },
+          "point_12": {
+               "starting_position": [
+                    3.388221317147688,
+                    -37.849061643653535
+               ],
+               "starting_orientation": -2.7765731793669364,
+               "percentage_covered": 0.7257038332219522,
+               "time_until_collision": 0.22465038299560547,
+               "distance_travelled": 3.2040754699755207,
+               "total_track_length": 441.512821525303,
+               "avg_speed": 1.4358585858585862,
+               "timesteps": 264
+          },
+          "point_13": {
+               "starting_position": [
+                    10.256954154621392,
+                    -34.209180692124434
+               ],
+               "starting_orientation": -2.644042992635337,
+               "percentage_covered": 1.569308074465775,
+               "time_until_collision": 0.5259020328521729,
+               "distance_travelled": 6.9286963579982475,
+               "total_track_length": 441.512821525303,
+               "avg_speed": 1.2672897196261685,
+               "timesteps": 642
+          },
+          "point_14": {
+               "starting_position": [
+                    32.07227893248653,
+                    -3.859340532321198
+               ],
+               "starting_orientation": 1.2033041837686678,
+               "percentage_covered": 1.9628011739786553,
+               "time_until_collision": 0.6402106285095215,
+               "distance_travelled": 8.666018844164933,
+               "total_track_length": 441.512821525303,
+               "avg_speed": 1.2809338521400782,
+               "timesteps": 771
+          },
+          "point_15": {
+               "starting_position": [
+                    2.915114016417707,
+                    59.94482968268362
+               ],
+               "starting_orientation": 0.3010099654978342,
+               "percentage_covered": 0.5654845370210955,
+               "time_until_collision": 0.21260952949523926,
+               "distance_travelled": 2.4966867346911354,
+               "total_track_length": 441.512821525303,
+               "avg_speed": 1.3070175438596492,
+               "timesteps": 228
+          },
+          "point_16": {
+               "starting_position": [
+                    48.791245917333455,
+                    -12.663787885293893
+               ],
+               "starting_orientation": -2.6341034314059284,
+               "percentage_covered": 11.80307428333468,
+               "time_until_collision": 3.634909152984619,
+               "distance_travelled": 52.112086295078385,
+               "total_track_length": 441.512821525303,
+               "avg_speed": 1.4463166463166466,
+               "timesteps": 4095
+          },
+          "point_17": {
+               "starting_position": [
+                    39.44309309392346,
+                    25.94117096262876
+               ],
+               "starting_orientation": -3.0741767734346284,
+               "percentage_covered": 4.318909020247711,
+               "time_until_collision": 1.376948595046997,
+               "distance_travelled": 19.06853707440649,
+               "total_track_length": 441.512821525303,
+               "avg_speed": 1.387069689336692,
+               "timesteps": 1588
+          },
+          "point_18": {
+               "starting_position": [
+                    23.645269937148186,
+                    24.340343446382423
+               ],
+               "starting_orientation": 1.4107368150222548,
+               "percentage_covered": 27.826967985921495,
+               "time_until_collision": 8.860581398010254,
+               "distance_travelled": 122.85963149958478,
+               "total_track_length": 441.512821525303,
+               "avg_speed": 1.385789508764914,
+               "timesteps": 10001
+          },
+          "point_19": {
+               "starting_position": [
+                    37.0710487758565,
+                    25.439807651554325
+               ],
+               "starting_orientation": -2.650473868123638,
+               "percentage_covered": 3.707882594363581,
+               "time_until_collision": 1.1597404479980469,
+               "distance_travelled": 16.370777061220252,
+               "total_track_length": 441.512821525303,
+               "avg_speed": 1.3663976522377113,
+               "timesteps": 1363
+          }
+     },
+     "MoscowRaceway": {
+          "point_0": {
+               "starting_position": [
+                    -14.149708008474576,
+                    26.14552244364352
+               ],
+               "starting_orientation": -1.5425095254797918,
+               "percentage_covered": 1.3680445233909142,
+               "time_until_collision": 0.3439466953277588,
+               "distance_travelled": 4.410021549013188,
+               "total_track_length": 322.3595046513731,
+               "avg_speed": 1.3087027914614122,
+               "timesteps": 406
+          },
+          "point_1": {
+               "starting_position": [
+                    -36.737483412676006,
+                    12.601981722173104
+               ],
+               "starting_orientation": -0.5884739732142467,
+               "percentage_covered": 13.406930698453667,
+               "time_until_collision": 3.1123995780944824,
+               "distance_travelled": 43.218515388488115,
+               "total_track_length": 322.3595046513731,
+               "avg_speed": 1.4310204081632654,
+               "timesteps": 3430
+          },
+          "point_2": {
+               "starting_position": [
+                    -49.71228534157712,
+                    21.08521379406416
+               ],
+               "starting_orientation": -0.5806431204977768,
+               "percentage_covered": 38.970518049659155,
+               "time_until_collision": 8.921183347702026,
+               "distance_travelled": 125.6251689449552,
+               "total_track_length": 322.3595046513731,
+               "avg_speed": 1.420915816836633,
+               "timesteps": 10001
+          },
+          "point_3": {
+               "starting_position": [
+                    -41.39744535279822,
+                    25.653650761973697
+               ],
+               "starting_orientation": -3.0318685907814125,
+               "percentage_covered": 1.7176146687510212,
+               "time_until_collision": 0.4471755027770996,
+               "distance_travelled": 5.536894138005114,
+               "total_track_length": 322.3595046513731,
+               "avg_speed": 1.1879012345679012,
+               "timesteps": 540
+          },
+          "point_4": {
+               "starting_position": [
+                    -3.5529848946571705,
+                    32.72642343283218
+               ],
+               "starting_orientation": 2.6407334626295027,
+               "percentage_covered": 10.564733102919977,
+               "time_until_collision": 2.511875867843628,
+               "distance_travelled": 34.05642129831247,
+               "total_track_length": 322.3595046513731,
+               "avg_speed": 1.3077600813283634,
+               "timesteps": 2951
+          },
+          "point_5": {
+               "starting_position": [
+                    -67.43572421963029,
+                    32.47101147831502
+               ],
+               "starting_orientation": -0.5667633756376693,
+               "percentage_covered": 39.32192063059822,
+               "time_until_collision": 9.273030042648315,
+               "distance_travelled": 126.75794856420251,
+               "total_track_length": 322.3595046513731,
+               "avg_speed": 1.4318336332733457,
+               "timesteps": 10001
+          },
+          "point_6": {
+               "starting_position": [
+                    -66.43087004731869,
+                    31.831279776393043
+               ],
+               "starting_orientation": -0.5679885066818016,
+               "percentage_covered": 39.248892684783264,
+               "time_until_collision": 9.059184789657593,
+               "distance_travelled": 126.52253603981633,
+               "total_track_length": 322.3595046513731,
+               "avg_speed": 1.4294474438445646,
+               "timesteps": 10001
+          },
+          "point_7": {
+               "starting_position": [
+                    2.789057899241286,
+                    26.086304944477224
+               ],
+               "starting_orientation": 1.4646904830799057,
+               "percentage_covered": 13.71188046640525,
+               "time_until_collision": 3.1896843910217285,
+               "distance_travelled": 44.201549949892346,
+               "total_track_length": 322.3595046513731,
+               "avg_speed": 1.3351549245468348,
+               "timesteps": 3733
+          },
+          "point_8": {
+               "starting_position": [
+                    -24.98490073317651,
+                    16.49949864137989
+               ],
+               "starting_orientation": 0.8685522990158543,
+               "percentage_covered": 6.195318600235964,
+               "time_until_collision": 1.4729335308074951,
+               "distance_travelled": 19.971198351295033,
+               "total_track_length": 322.3595046513731,
+               "avg_speed": 1.267002424920724,
+               "timesteps": 1787
+          },
+          "point_9": {
+               "starting_position": [
+                    -59.42083731541981,
+                    27.298422667416983
+               ],
+               "starting_orientation": -0.5716183185795777,
+               "percentage_covered": 38.93343469520969,
+               "time_until_collision": 8.951852083206177,
+               "distance_travelled": 125.50562722724378,
+               "total_track_length": 322.3595046513731,
+               "avg_speed": 1.4197560487902423,
+               "timesteps": 10001
+          },
+          "point_10": {
+               "starting_position": [
+                    -26.844278146855217,
+                    5.94442697811801
+               ],
+               "starting_orientation": -0.5947126525445052,
+               "percentage_covered": 9.608847564723586,
+               "time_until_collision": 2.224004030227661,
+               "distance_travelled": 30.97503341234848,
+               "total_track_length": 322.3595046513731,
+               "avg_speed": 1.4261596548004316,
+               "timesteps": 2472
+          },
+          "point_11": {
+               "starting_position": [
+                    -68.77239206160363,
+                    33.330687831851485
+               ],
+               "starting_orientation": -0.5746131717627022,
+               "percentage_covered": 25.46111131456566,
+               "time_until_collision": 5.960312128067017,
+               "distance_travelled": 82.07631231236856,
+               "total_track_length": 322.3595046513731,
+               "avg_speed": 1.4196801968019683,
+               "timesteps": 6504
+          },
+          "point_12": {
+               "starting_position": [
+                    -17.9482262985678,
+                    -0.0593594452686839
+               ],
+               "starting_orientation": -0.5920347518181714,
+               "percentage_covered": 6.240762246130372,
+               "time_until_collision": 1.436269998550415,
+               "distance_travelled": 20.11769026309577,
+               "total_track_length": 322.3595046513731,
+               "avg_speed": 1.37285140562249,
+               "timesteps": 1660
+          },
+          "point_13": {
+               "starting_position": [
+                    -14.036317140748654,
+                    22.96573990607732
+               ],
+               "starting_orientation": -1.5423832471568582,
+               "percentage_covered": 3.530992121960441,
+               "time_until_collision": 0.8292927742004395,
+               "distance_travelled": 11.382488713630686,
+               "total_track_length": 322.3595046513731,
+               "avg_speed": 1.2890227576974567,
+               "timesteps": 996
+          },
+          "point_14": {
+               "starting_position": [
+                    2.5380654965937626,
+                    23.71427746569594
+               ],
+               "starting_orientation": 1.4656779526723815,
+               "percentage_covered": 14.511504979829857,
+               "time_until_collision": 3.3807663917541504,
+               "distance_travelled": 46.779215570438865,
+               "total_track_length": 322.3595046513731,
+               "avg_speed": 1.3333669778787118,
+               "timesteps": 3963
+          },
+          "point_15": {
+               "starting_position": [
+                    -34.76399086458889,
+                    24.87107060302965
+               ],
+               "starting_orientation": 2.91968166083147,
+               "percentage_covered": 3.192375730949711,
+               "time_until_collision": 0.7748894691467285,
+               "distance_travelled": 10.290926592900139,
+               "total_track_length": 322.3595046513731,
+               "avg_speed": 1.34034302759135,
+               "timesteps": 894
+          },
+          "point_16": {
+               "starting_position": [
+                    -50.545953785325445,
+                    28.370268489419328
+               ],
+               "starting_orientation": 2.368222257912406,
+               "percentage_covered": 7.398268706853456,
+               "time_until_collision": 1.6787090301513672,
+               "distance_travelled": 23.849022356190343,
+               "total_track_length": 322.3595046513731,
+               "avg_speed": 1.3433151545199142,
+               "timesteps": 2017
+          },
+          "point_17": {
+               "starting_position": [
+                    -46.15447944255928,
+                    25.29429724490164
+               ],
+               "starting_orientation": 3.062416573252524,
+               "percentage_covered": 0.5941382797290663,
+               "time_until_collision": 0.1789398193359375,
+               "distance_travelled": 1.9152612154788076,
+               "total_track_length": 322.3595046513731,
+               "avg_speed": 1.2719022687609076,
+               "timesteps": 191
+          },
+          "point_18": {
+               "starting_position": [
+                    -17.15878133379999,
+                    13.852780671489992
+               ],
+               "starting_orientation": -2.242441090814978,
+               "percentage_covered": 0.8728437165796286,
+               "time_until_collision": 0.17720746994018555,
+               "distance_travelled": 2.813694681146725,
+               "total_track_length": 322.3595046513731,
+               "avg_speed": 1.48969696969697,
+               "timesteps": 220
+          },
+          "point_19": {
+               "starting_position": [
+                    -38.24570777471006,
+                    25.68245287324134
+               ],
+               "starting_orientation": 2.986698477436248,
+               "percentage_covered": 2.050724423654005,
+               "time_until_collision": 0.5349628925323486,
+               "distance_travelled": 6.610705093855775,
+               "total_track_length": 322.3595046513731,
+               "avg_speed": 1.3164983164983166,
+               "timesteps": 594
+          }
+     }
+}
