@@ -4,7 +4,7 @@
 - Linux Os
 - Python 3.10
 
-### Local Setup Instructions
+#### Local Setup Instructions
 
 1. **Install Python**
 ```sh
